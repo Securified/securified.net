@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Securified</title>
+    <link>https://securified.net/posts/</link>
+    <description>Recent content in Posts on Securified</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://securified.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Smörgåsbord of Messengers</title>
+      <link>https://securified.net/posts/messengers/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://securified.net/posts/messengers/</guid>
+      <description>Privacy and security focused messenger showdown.</description>
+    </item>
+    
+    <item>
+      <title>By Default </title>
+      <link>https://securified.net/posts/bydefault/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://securified.net/posts/bydefault/</guid>
+      <description>The importance of privacy and security by default.</description>
+    </item>
+    
+    <item>
+      <title>Defending your Finances in the Digital Realm</title>
+      <link>https://securified.net/posts/finance/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://securified.net/posts/finance/</guid>
+      <description>A brief guide on digital payments.</description>
+    </item>
+    
+  </channel>
+</rss>

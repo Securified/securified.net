@@ -30,11 +30,6 @@
   pageRef = "contact"
   weight = 40
 
-[[main]]
-  name = "RSS"
-  url = "https://securified.net/posts/index.xml"
-  weight = 50
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

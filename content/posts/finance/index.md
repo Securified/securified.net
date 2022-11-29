@@ -23,3 +23,7 @@ Privacy.com is a privacy and security focused company with a great track record 
 ### Bank Accounts
 
 A similar topic is securing your bank account access. It should have a completely unique password, different from any other website. Enable multifactor authentication if it is supported. For security questions (eg: what is your mothers maiden name?), do not enter the true information as this can be trivially guessed, found online, or learned through social engineering. Instead, use random answers (eg: What is your home town? "New York") and save it in a password manager. Security questions are easily guessed or figured out by attackers, so they should not be the "true" answer. While this may seem like an odd thing to do, it is increasingly recommended to protect accounts.
+
+<!-- ### Cryptocurrencies
+
+Hardware wallets -->

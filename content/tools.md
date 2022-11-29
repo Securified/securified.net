@@ -25,7 +25,6 @@ Product recommendations to aid in privacy and security.
 | Encryption Software | [Picocrypt](https://github.com/HACKERALERT/Picocrypt) or [Cryptomator](https://cryptomator.org/) |
 
 
-<!-- See [here]({{< ref "content\posts\messengers\index.md" >}}) for more details about this choice. -->
 
 <!-- 
 iot

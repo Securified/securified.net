@@ -2,9 +2,9 @@
 title: "By Default "
 date: "2022-07-24"
 summary: "The importance of privacy and security by default."
+# tags: []
 ---
 
-<!-- ![Alt text](/img/phone-lock.jpg) -->
 
 ### Private and Secure by Default
 

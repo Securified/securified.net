@@ -2,9 +2,9 @@
 title: "Defending your Finances in the Digital Realm"
 date: "2022-05-02"
 summary: "A brief guide on digital payments."
+tags: ["finance", "money", "privacy.com", "bank", "purchase"]
 ---
 
-<!-- ![Alt text](/img/money.jpg) -->
 
 ### Credit Card Theft
 

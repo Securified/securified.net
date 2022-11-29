@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacy.com on Securified</title>
+    <link>https://securified.net/tags/privacy.com/</link>
+    <description>Recent content in privacy.com on Securified</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://securified.net/tags/privacy.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Defending your Finances in the Digital Realm</title>
+      <link>https://securified.net/posts/finance/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://securified.net/posts/finance/</guid>
+      <description>A brief guide on digital payments.</description>
+    </item>
+    
+  </channel>
+</rss>

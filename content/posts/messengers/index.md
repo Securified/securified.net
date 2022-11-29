@@ -1,18 +1,10 @@
 ---
 title: "A Smörgåsbord of Messengers"
 date: "2022-08-03"
-# description: "Messengers/texting showdown."
-# tags: ["signal", "messengers", "texting"]
-# ShowToc: true
-# cover:
-#     image: "poster.png"
-#     alt: "messenger-comparison" # alt text
-#     relative: false # when using page bundles set this to true
-#     hidden: false 
 summary: "Privacy and security focused messenger showdown."
+tags: ["signal", "messengers", "texting", "imessage"]
 ---
 
-<!-- ![Alt text](/img/poster.png) -->
 
 {{< lead >}}
 TL;DR: Signal is the best messenger/calling app. Every other messenger has design flaws that affect user security and privacy. Signal is widely regarded as the most secure and private messenger currently available.

@@ -38,8 +38,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.b06884feef356ecb120c81f323ad169f044c2bae8c75b34023de3bca503745f846cc764c6752ac6ed6e582c59577fb1f4a36f9dbe7b10960721f9b8f7970d992.css"
-    integrity="sha512-sGiE/u81bssSDIHzI60WnwRMK66MdbNAI947ylA3RfhGzHZMZ1KsbtblgsWVd/sfSjb52&#43;exCWByH5uPeXDZkg=="
+    href="/css/main.bundle.min.9a3c55add7114104f4403b9784a2fea7343e1785bbc807491f6d70233f97a907d15c2d558e81a8220f9c7b777731a662989704838e02e9e7cac019fd25e5d6b8.css"
+    integrity="sha512-mjxVrdcRQQT0QDuXhKL&#43;pzQ&#43;F4W7yAdJH21wIz&#43;XqQfRXC1VjoGoIg&#43;ce3d3MaZimJcEg44C6efKwBn9JeXWuA=="
   />
   
   
@@ -106,7 +106,7 @@
     
     "dateModified": "2022-05-02T00:00:00\u002b00:00",
     
-    
+    "keywords": ["finance","money","privacy.com","bank","purchase"],
     
     "mainEntityOfPage": "true",
     "wordCount": "332"
@@ -164,8 +164,8 @@
 
     </div>
     
-    
-      <label id="menu-button" for="menu-controller" class="block">
+      
+      <label id="menu-button" for="menu-controller" class="block sm:hidden">
         <input type="checkbox" id="menu-controller" class="hidden" />
         <div class="cursor-pointer hover:text-primary-600 dark:hover:text-primary-400">
           
@@ -238,7 +238,7 @@
             
               <li>
                 <button
-                  id="search-button"
+                  id="search-button-2"
                   class="text-base hover:text-primary-600 dark:hover:text-primary-400"
                   title="Search (/)"
                 >
@@ -256,6 +256,66 @@
           </ul>
         </div>
       </label>
+      
+      <ul class="hidden list-none flex-row ltr:text-right rtl:text-left sm:flex">
+        
+          
+            <li class="mb-1 sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+              <a
+                class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+                href="/posts/"
+                title="Posts"
+                >Posts</a
+              >
+            </li>
+          
+            <li class="mb-1 sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+              <a
+                class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+                href="/tools/"
+                title="Tools"
+                >Tools</a
+              >
+            </li>
+          
+            <li class="mb-1 sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+              <a
+                class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+                href="/services/"
+                title="Services"
+                >Services</a
+              >
+            </li>
+          
+            <li class="mb-1 sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+              <a
+                class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+                href="/contact/"
+                title="Contact"
+                >Contact</a
+              >
+            </li>
+          
+        
+        
+          <li class="ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+            <button
+              id="search-button-1"
+              class="text-base hover:text-primary-600 dark:hover:text-primary-400"
+              title="Search (/)"
+            >
+              
+
+  <span class="relative inline-block align-text-bottom icon">
+    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+
+  </span>
+
+
+            </button>
+          </li>
+        
+      </ul>
     
   </nav>
 </header>
@@ -362,8 +422,7 @@
     <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
       
       <div class="min-w-0 min-h-0 max-w-prose grow">
-        <!-- ![Alt text](/img/money.jpg) -->
-<h3 id="credit-card-theft" class="relative group">Credit Card Theft <span class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#credit-card-theft" aria-label="Anchor">#</a></span></h3>
+        <h3 id="credit-card-theft" class="relative group">Credit Card Theft <span class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#credit-card-theft" aria-label="Anchor">#</a></span></h3>
 <p>Stolen credit/debit card numbers are sold for mere dollars on the black market. This is because they are so ubiquitous as they are lost in data breaches all the time.</p>
 <h3 id="privacycom" class="relative group">Privacy.com <span class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#privacycom" aria-label="Anchor">#</a></span></h3>
 <p><a href="https://privacy.com"   target="_blank">Privacy.com</a> allows the creation of virtual visa/mastercard gift cards that function like a debit card. This service is free as Privacy.com takes a portion of the fee that is payed to the card company (Visa or Mastercard) by the merchant. There is also a paid option with added benefits.</p>
@@ -392,15 +451,15 @@
         </span>
         <span>
           
-            <a class="group flex text-right" href="/posts/bydefault/">
+            <a class="group flex text-right" href="/posts/iot/">
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >By Default </span
+                  >IoT: The 'S' is for Security</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
-                    <time datetime="2022-07-24 00:00:00 &#43;0000 UTC">July 24, 2022</time>
+                    <time datetime="2022-05-03 00:00:00 &#43;0000 UTC">May 3, 2022</time>
                   
                 </span>
               </span>

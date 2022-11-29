@@ -20,7 +20,7 @@ Product recommendations to aid in privacy and security.
 | Web Browser       | [Brave](https://brave.com/)                                                                   |
 | Search Engine     | [Brave Search](https://search.brave.com/default) or [Duckduckgo](https://duckduckgo.com/)     |                                                                       |
 | Notes             | [Standard Notes](https://standardnotes.com/)                                                  |
-| Messenger         | [Signal](https://www.signal.org/). See [here]({{< ref "messengers.md" >}}) for more details about this choice.  |
+| Messenger         | [Signal](https://www.signal.org/). See [here]({{< ref "content\posts\messengers\index.md" >}}) for more details about this choice.  |
 | Cloud Storage     | [Proton Drive](https://drive.proton.me/) or [Tresorit](https://tresorit.com/) |
 | Encryption Software | [Picocrypt](https://github.com/HACKERALERT/Picocrypt) or [Cryptomator](https://cryptomator.org/) |
 

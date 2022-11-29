@@ -12,7 +12,7 @@ footer.showAppearanceSwitcher = true
 footer.showThemeAttribution = false
 footer.show.showScrollToTop = true
 
-header.layout = "hamburger"
+header.layout = "hybrid"
 
 enableSearch = true
 enableCodeCopy = true

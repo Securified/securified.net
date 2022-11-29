@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "Securified"
-description = "A slice of the internet dedicated to security and privacy."
+description = "A slice of the internet focused on security and privacy."
 #copyright = "© 2022 Securified"
 
 dateFormat = "January 2, 2006"
@@ -14,7 +14,7 @@ dateFormat = "January 2, 2006"
 [author]
   name = "Securified"
   image = "/img/shield_check_icon-4096.png"
-  headline = "A slice of the internet dedicated to security and privacy."
+  headline = "A slice of the internet focused on security and privacy."
   #bio = "Digital Privacy and Security Advocate."
   links = [
   #  { email = "" },

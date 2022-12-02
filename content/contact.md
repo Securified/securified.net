@@ -10,7 +10,7 @@ Have a question or curious about pricing? Contact Securified using the info belo
 {{< /lead >}}
 
 ### Email
-Send an email to [contact@securified.net](mailto:contact@securified.net) (Preferably from a protonmail email :smile:).
+Send an email to [contact@securified.net](mailto:contact@securified.net).
 
 
 ### Signal

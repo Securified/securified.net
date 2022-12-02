@@ -18,7 +18,7 @@ Overview of the services offered by Securified.
 
 
 #### Master Multifactor
-- How to take advantage of the easiest thing to stop would be hackers in their tracks.
+- Guidance on how to stop would be hackers in their tracks with multifactor authentication.
 
 
 #### Web Browsers, Search Engines and Extensions
@@ -34,7 +34,7 @@ Overview of the services offered by Securified.
 
 ## General Security/Privacy Consulting
 Hourly. Some of the things this can cover:
-- Password mangers
+- Password managers
 - Secure email
 - Secure phone setup
 - Cloud storage strategy

@@ -1,6 +1,6 @@
 ---
 title: "IoT: The 'S' is for Security"
-date: "2022-11-28"
+date: "2021-11-28"
 summary: "An analysis on the lack of IoT Security."
 tags: ["iot", "smart device", "alexa", "siri", "smart tv", "smart assistant"]
 ---

@@ -23,4 +23,6 @@ Product recommendations to aid in privacy and security.
 | Messenger         | [Signal](https://www.signal.org/).   |
 | Cloud Storage     | [Proton Drive](https://drive.proton.me/) or [Tresorit](https://tresorit.com/) |
 | Encryption Software | [Picocrypt](https://github.com/HACKERALERT/Picocrypt) or [Cryptomator](https://cryptomator.org/) |
+| Calendar | [Proton Calendar](https://calendar.proton.me/) |
+| Private YouTube Proxy | [yewtu.be](https://yewtu.be/feed/popular) |
 

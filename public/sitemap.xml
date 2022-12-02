@@ -5,37 +5,9 @@
     
       <url>
             <loc>https://securified.net/</loc>
-            <lastmod>2022-11-28T00:00:00+00:00</lastmod>
+            <lastmod>2022-08-03T00:00:00+00:00</lastmod>
             <priority>0</priority>
           </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://securified.net/posts/iot/</loc>
-            <lastmod>2022-11-28T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://securified.net/posts/</loc>
-            <lastmod>2022-11-28T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
     
   
     
@@ -45,6 +17,15 @@
           </url>
     
   
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://securified.net/posts/</loc>
+            <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+          </url>
     
   
     
@@ -75,6 +56,48 @@
   
     
   
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://securified.net/posts/iot/</loc>
+            <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://securified.net/posts/browsers/</loc>
+            <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+          </url>
     
   
     

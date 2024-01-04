@@ -14,7 +14,7 @@ Product recommendations to aid in privacy and security.
 
 |                   |                                                                                               |
 | ----------------- | --------------------------------------------------------------------------------------------- |
-| Password Manager  | [Bitwarden](https://bitwarden.com/)                                                           |
+| Password Manager  |[1Password]( https://1password.com/), [Bitwarden](https://bitwarden.com/) or [Proton Pass](https://proton.me/pass) |
 | Multifactor App   | [Authy](https://authy.com/)                                                                   |
 | Email             | [Proton Mail](https://proton.me/)                                                             |
 | Web Browser       | [Brave](https://brave.com/)                                                                   |

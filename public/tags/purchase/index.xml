@@ -6,15 +6,14 @@
     <description>Recent content in purchase on Securified</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://securified.net/tags/purchase/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://securified.net/tags/purchase/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Defending your Finances in the Digital Realm</title>
       <link>https://securified.net/posts/finance/</link>
       <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://securified.net/posts/finance/</guid>
       <description>A brief guide on digital payments.</description>
     </item>
-    
   </channel>
 </rss>

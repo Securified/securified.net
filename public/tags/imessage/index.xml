@@ -6,15 +6,14 @@
     <description>Recent content in imessage on Securified</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://securified.net/tags/imessage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://securified.net/tags/imessage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Smörgåsbord of Messengers</title>
       <link>https://securified.net/posts/messengers/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://securified.net/posts/messengers/</guid>
       <description>Privacy and security focused messenger showdown.</description>
     </item>
-    
   </channel>
 </rss>

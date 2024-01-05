@@ -6,51 +6,42 @@
     <description>Recent content in Posts on Securified</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://securified.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://securified.net/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Smörgåsbord of Messengers</title>
       <link>https://securified.net/posts/messengers/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://securified.net/posts/messengers/</guid>
       <description>Privacy and security focused messenger showdown.</description>
     </item>
-    
     <item>
       <title>By Default </title>
       <link>https://securified.net/posts/bydefault/</link>
       <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://securified.net/posts/bydefault/</guid>
       <description>The importance of privacy and security by default.</description>
     </item>
-    
     <item>
       <title>Defending your Finances in the Digital Realm</title>
       <link>https://securified.net/posts/finance/</link>
       <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://securified.net/posts/finance/</guid>
       <description>A brief guide on digital payments.</description>
     </item>
-    
     <item>
       <title>IoT: The &#39;S&#39; is for Security</title>
       <link>https://securified.net/posts/iot/</link>
       <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://securified.net/posts/iot/</guid>
       <description>An analysis on the lack of IoT Security.</description>
     </item>
-    
     <item>
       <title>Web Browsers and Search Engines</title>
       <link>https://securified.net/posts/browsers/</link>
       <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://securified.net/posts/browsers/</guid>
       <description>Browser and search engine recommendations.</description>
     </item>
-    
   </channel>
 </rss>

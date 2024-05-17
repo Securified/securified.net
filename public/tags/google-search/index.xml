@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>google search on Securified</title>
-  <link rel="alternate" href="https://example.org/tags/google-search/" />
-  <link rel="self" href="https://example.org/tags/google-search/index.xml" />
+  <link rel="alternate" href="https://securified.net/tags/google-search/" />
+  <link rel="self" href="https://securified.net/tags/google-search/index.xml" />
   <subtitle>Recent content in google search on Securified</subtitle>
-  <id>https://example.org/tags/google-search/</id>
+  <id>https://securified.net/tags/google-search/</id>
   <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
   <language>en-us</language>
   <updated>2021-11-28T00:00:00Z</updated>
@@ -15,8 +15,8 @@
   <rights>© Securified 2024</rights>
       <entry>
         <title>Web Browsers and Search Engines</title>
-        <link rel="alternate" href="https://example.org/posts/browsers/" />
-        <id>https://example.org/posts/browsers/</id>
+        <link rel="alternate" href="https://securified.net/browsers/" />
+        <id>https://securified.net/browsers/</id>
         <published>2021-11-28T00:00:00Z</published>
         <updated>2021-11-28T00:00:00Z</updated>
         <summary type="html">Browser and search engine recommendations.</summary>

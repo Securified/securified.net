@@ -10,9 +10,8 @@ buildFuture: false
 buildExpired: false
 enableGitInfo: false
 
-# What is this?
-# permalinks:
-  # posts: "/:filename"
+permalinks:
+  posts: "/:filename"
 
 minify:
   disableXML: true
@@ -54,7 +53,7 @@ params:
     enabled: true
     title: "Welcome to Securified"
     subtitle: A slice 🍕 of the internet focused on security and privacy.
-    imageUrl: img\shield_check_icon-4096.png 
+    imageUrl: \img\shield_check_icon-4096.png 
     buttons:
           - name: Posts
             url: "/posts"
@@ -136,3 +135,10 @@ menu:
     #   name: search
     #   url: /search/
     #   weight: 90
+
+
+
+# /*  Strict-Transport-Security   max-age=63072000; includeSubDomains
+# /*  X-Frame-Options DENY
+# /*  Content-Security-Policy   default-src 'self';
+# /*  X-XSS-Protection  0

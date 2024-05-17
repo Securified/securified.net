@@ -2,7 +2,7 @@
 title: "Tools"
 hidemeta: true
 cover:
-  image: img\desk.jpg
+  image:  desk.jpg
   hiddenInList: false
 ShowPostNavLinks: false
 ---

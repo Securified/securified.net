@@ -4,7 +4,7 @@ date: "2021-11-28"
 summary: "An analysis on the lack of IoT Security."
 tags: ["iot", "smart device", "alexa", "siri", "smart tv", "smart assistant"]
 cover:
-  image: img\iot.jpg
+  image:  iot.jpg
   hiddenInList: false
 ---
 

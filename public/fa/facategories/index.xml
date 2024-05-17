@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>FAcategories on PaperMod RTL</title>
+  <link rel="alternate" href="https://adityatelange.github.io/hugo-PaperMod/fa/facategories/" />
+  <link rel="self" href="https://adityatelange.github.io/hugo-PaperMod/fa/facategories/index.xml" />
+  <subtitle>Recent content in FAcategories on PaperMod RTL</subtitle>
+  <id>https://adityatelange.github.io/hugo-PaperMod/fa/facategories/</id>
+  <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
+  <language>fa</language>
+  <updated>0001-01-01T00:00:00Z</updated>
+  <author>
+    <name>Theme PaperMod</name>
+    
+  </author>
+  <rights>© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)</rights>
+
+</feed>
+
+

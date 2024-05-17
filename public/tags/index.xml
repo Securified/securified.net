@@ -1,173 +1,226 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Securified</title>
-    <link>https://securified.net/tags/</link>
-    <description>Recent content in Tags on Securified</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://securified.net/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>imessage</title>
-      <link>https://securified.net/tags/imessage/</link>
-      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/imessage/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>messengers</title>
-      <link>https://securified.net/tags/messengers/</link>
-      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/messengers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>signal</title>
-      <link>https://securified.net/tags/signal/</link>
-      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/signal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>texting</title>
-      <link>https://securified.net/tags/texting/</link>
-      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/texting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>bank</title>
-      <link>https://securified.net/tags/bank/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/bank/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>finance</title>
-      <link>https://securified.net/tags/finance/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/finance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>money</title>
-      <link>https://securified.net/tags/money/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/money/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>privacy.com</title>
-      <link>https://securified.net/tags/privacy.com/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/privacy.com/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>purchase</title>
-      <link>https://securified.net/tags/purchase/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/purchase/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>alexa</title>
-      <link>https://securified.net/tags/alexa/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/alexa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>brave</title>
-      <link>https://securified.net/tags/brave/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/brave/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>chrome</title>
-      <link>https://securified.net/tags/chrome/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/chrome/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>duckduckgo</title>
-      <link>https://securified.net/tags/duckduckgo/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/duckduckgo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>edge</title>
-      <link>https://securified.net/tags/edge/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/edge/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>google search</title>
-      <link>https://securified.net/tags/google-search/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/google-search/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>iot</title>
-      <link>https://securified.net/tags/iot/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/iot/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>safari</title>
-      <link>https://securified.net/tags/safari/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/safari/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>search engine</title>
-      <link>https://securified.net/tags/search-engine/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/search-engine/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>siri</title>
-      <link>https://securified.net/tags/siri/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/siri/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>smart assistant</title>
-      <link>https://securified.net/tags/smart-assistant/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/smart-assistant/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>smart device</title>
-      <link>https://securified.net/tags/smart-device/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/smart-device/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>smart tv</title>
-      <link>https://securified.net/tags/smart-tv/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/smart-tv/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>web browser</title>
-      <link>https://securified.net/tags/web-browser/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://securified.net/tags/web-browser/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tags on Securified</title>
+  <link rel="alternate" href="https://example.org/tags/" />
+  <link rel="self" href="https://example.org/tags/index.xml" />
+  <subtitle>Recent content in Tags on Securified</subtitle>
+  <id>https://example.org/tags/</id>
+  <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
+  <language>en-us</language>
+  <updated>2022-08-03T00:00:00Z</updated>
+  <author>
+    <name>Securified</name>
+    
+  </author>
+  <rights>© Securified 2024</rights>
+      <entry>
+        <title>imessage</title>
+        <link rel="alternate" href="https://example.org/tags/imessage/" />
+        <id>https://example.org/tags/imessage/</id>
+        <published>2022-08-03T00:00:00Z</published>
+        <updated>2022-08-03T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>messengers</title>
+        <link rel="alternate" href="https://example.org/tags/messengers/" />
+        <id>https://example.org/tags/messengers/</id>
+        <published>2022-08-03T00:00:00Z</published>
+        <updated>2022-08-03T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>signal</title>
+        <link rel="alternate" href="https://example.org/tags/signal/" />
+        <id>https://example.org/tags/signal/</id>
+        <published>2022-08-03T00:00:00Z</published>
+        <updated>2022-08-03T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>texting</title>
+        <link rel="alternate" href="https://example.org/tags/texting/" />
+        <id>https://example.org/tags/texting/</id>
+        <published>2022-08-03T00:00:00Z</published>
+        <updated>2022-08-03T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>bank</title>
+        <link rel="alternate" href="https://example.org/tags/bank/" />
+        <id>https://example.org/tags/bank/</id>
+        <published>2022-05-02T00:00:00Z</published>
+        <updated>2022-05-02T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>finance</title>
+        <link rel="alternate" href="https://example.org/tags/finance/" />
+        <id>https://example.org/tags/finance/</id>
+        <published>2022-05-02T00:00:00Z</published>
+        <updated>2022-05-02T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>money</title>
+        <link rel="alternate" href="https://example.org/tags/money/" />
+        <id>https://example.org/tags/money/</id>
+        <published>2022-05-02T00:00:00Z</published>
+        <updated>2022-05-02T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>privacy.com</title>
+        <link rel="alternate" href="https://example.org/tags/privacy.com/" />
+        <id>https://example.org/tags/privacy.com/</id>
+        <published>2022-05-02T00:00:00Z</published>
+        <updated>2022-05-02T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>purchase</title>
+        <link rel="alternate" href="https://example.org/tags/purchase/" />
+        <id>https://example.org/tags/purchase/</id>
+        <published>2022-05-02T00:00:00Z</published>
+        <updated>2022-05-02T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>alexa</title>
+        <link rel="alternate" href="https://example.org/tags/alexa/" />
+        <id>https://example.org/tags/alexa/</id>
+        <published>2021-11-28T00:00:00Z</published>
+        <updated>2021-11-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>brave</title>
+        <link rel="alternate" href="https://example.org/tags/brave/" />
+        <id>https://example.org/tags/brave/</id>
+        <published>2021-11-28T00:00:00Z</published>
+        <updated>2021-11-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>chrome</title>
+        <link rel="alternate" href="https://example.org/tags/chrome/" />
+        <id>https://example.org/tags/chrome/</id>
+        <published>2021-11-28T00:00:00Z</published>
+        <updated>2021-11-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>duckduckgo</title>
+        <link rel="alternate" href="https://example.org/tags/duckduckgo/" />
+        <id>https://example.org/tags/duckduckgo/</id>
+        <published>2021-11-28T00:00:00Z</published>
+        <updated>2021-11-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>edge</title>
+        <link rel="alternate" href="https://example.org/tags/edge/" />
+        <id>https://example.org/tags/edge/</id>
+        <published>2021-11-28T00:00:00Z</published>
+        <updated>2021-11-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>google search</title>
+        <link rel="alternate" href="https://example.org/tags/google-search/" />
+        <id>https://example.org/tags/google-search/</id>
+        <published>2021-11-28T00:00:00Z</published>
+        <updated>2021-11-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>iot</title>
+        <link rel="alternate" href="https://example.org/tags/iot/" />
+        <id>https://example.org/tags/iot/</id>
+        <published>2021-11-28T00:00:00Z</published>
+        <updated>2021-11-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>safari</title>
+        <link rel="alternate" href="https://example.org/tags/safari/" />
+        <id>https://example.org/tags/safari/</id>
+        <published>2021-11-28T00:00:00Z</published>
+        <updated>2021-11-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>search engine</title>
+        <link rel="alternate" href="https://example.org/tags/search-engine/" />
+        <id>https://example.org/tags/search-engine/</id>
+        <published>2021-11-28T00:00:00Z</published>
+        <updated>2021-11-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>siri</title>
+        <link rel="alternate" href="https://example.org/tags/siri/" />
+        <id>https://example.org/tags/siri/</id>
+        <published>2021-11-28T00:00:00Z</published>
+        <updated>2021-11-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>smart assistant</title>
+        <link rel="alternate" href="https://example.org/tags/smart-assistant/" />
+        <id>https://example.org/tags/smart-assistant/</id>
+        <published>2021-11-28T00:00:00Z</published>
+        <updated>2021-11-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>smart device</title>
+        <link rel="alternate" href="https://example.org/tags/smart-device/" />
+        <id>https://example.org/tags/smart-device/</id>
+        <published>2021-11-28T00:00:00Z</published>
+        <updated>2021-11-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>smart tv</title>
+        <link rel="alternate" href="https://example.org/tags/smart-tv/" />
+        <id>https://example.org/tags/smart-tv/</id>
+        <published>2021-11-28T00:00:00Z</published>
+        <updated>2021-11-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>web browser</title>
+        <link rel="alternate" href="https://example.org/tags/web-browser/" />
+        <id>https://example.org/tags/web-browser/</id>
+        <published>2021-11-28T00:00:00Z</published>
+        <updated>2021-11-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+
+</feed>
+
+

@@ -1,28 +1,26 @@
 ---
 title: "Tools"
-showDate: false
-showReadingTime: false
-showPagination: false
+hidemeta: true
+cover:
+  image: img\desk.jpg
+  hiddenInList: false
+ShowPostNavLinks: false
 ---
 
-![Alt text](/img/desk.jpg)
 
-{{< lead >}}
 Product recommendations to aid in privacy and security.
-{{< /lead >}}
 
 
 |                   |                                                                                               |
 | ----------------- | --------------------------------------------------------------------------------------------- |
 | Password Manager  |[1Password]( https://1password.com/) or [Proton Pass](https://proton.me/pass)                  |
-| Multifactor App   | [Authy](https://authy.com/)                                                                   |
+| Multifactor App   |  [Aegis](https://getaegis.app/) or [Authy](https://authy.com/)                                                                   |
 | Email             | [Proton Mail](https://proton.me/)                                                             |
 | Web Browser       | [Brave](https://brave.com/)                                                                   |
-| Search Engine     | [Brave Search](https://search.brave.com/default) or [Duckduckgo](https://duckduckgo.com/)     |                                                                       |
+| Search Engine     | [Brave Search](https://search.brave.com/default) or [Duckduckgo](https://duckduckgo.com/)     |                                                                       
 | Notes             | [Standard Notes](https://standardnotes.com/)                                                  |
-| Messenger         | [Signal](https://www.signal.org/).   |
-| Cloud Storage     | [Proton Drive](https://drive.proton.me/) or [Tresorit](https://tresorit.com/) |
+| Messenger         | [Signal](https://www.signal.org/).                                                            |
+| Cloud Storage     | [Proton Drive](https://drive.proton.me/) or [Tresorit](https://tresorit.com/)                 |
 | Encryption Software | [Picocrypt](https://github.com/HACKERALERT/Picocrypt) or [Cryptomator](https://cryptomator.org/) |
-| Calendar | [Proton Calendar](https://calendar.proton.me/) |
-| Private YouTube Proxy | [yewtu.be](https://yewtu.be/feed/popular) |
-
+| Calendar | [Proton Calendar](https://calendar.proton.me/)                                                         |
+| Private YouTube Proxy | [Invidious](https://farside.link/invidious)                                                 |

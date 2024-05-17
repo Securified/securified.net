@@ -1,13 +1,11 @@
 ---
 title: "Services"
-showDate: false
-showReadingTime: false
-showPagination: false
+hidemeta: true
+showtoc: false
+ShowPostNavLinks: false
 ---
 
-{{< lead >}}
 Overview of the services offered by Securified.
-{{< /lead >}}
 
 
 ## Packages

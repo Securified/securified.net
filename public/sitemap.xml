@@ -1,122 +1,108 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-      <url>
-            <loc>https://securified.net/</loc>
-            <lastmod>2022-08-03T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://securified.net/posts/messengers/</loc>
-            <lastmod>2022-08-03T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://securified.net/posts/</loc>
-            <lastmod>2022-08-03T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://securified.net/posts/bydefault/</loc>
-            <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://securified.net/posts/finance/</loc>
-            <lastmod>2022-05-02T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://securified.net/posts/iot/</loc>
-            <lastmod>2021-11-28T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://securified.net/posts/browsers/</loc>
-            <lastmod>2021-11-28T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://securified.net/contact/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://securified.net/services/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://securified.net/tools/</loc>
-          </url>
-    
-  
+  <url>
+    <loc>https://example.org/posts/messengers/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/imessage/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/messengers/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/signal/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/texting/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/bydefault/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/bank/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/finance/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/finance/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/money/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/privacy.com/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/purchase/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/alexa/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/brave/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/chrome/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/duckduckgo/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/edge/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/google-search/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/iot/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/iot/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/safari/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/search-engine/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/siri/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/smart-assistant/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/smart-device/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/smart-tv/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/web-browser/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/browsers/</loc>
+    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/about/</loc>
+  </url><url>
+    <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/contact/</loc>
+  </url><url>
+    <loc>https://example.org/services/</loc>
+  </url><url>
+    <loc>https://example.org/tools/</loc>
+  </url>
 </urlset>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>finance on Securified</title>
-  <link rel="alternate" href="https://example.org/tags/finance/" />
-  <link rel="self" href="https://example.org/tags/finance/index.xml" />
+  <link rel="alternate" href="https://securified.net/tags/finance/" />
+  <link rel="self" href="https://securified.net/tags/finance/index.xml" />
   <subtitle>Recent content in finance on Securified</subtitle>
-  <id>https://example.org/tags/finance/</id>
+  <id>https://securified.net/tags/finance/</id>
   <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
   <language>en-us</language>
   <updated>2022-05-02T00:00:00Z</updated>
@@ -15,8 +15,8 @@
   <rights>© Securified 2024</rights>
       <entry>
         <title>Defending your Finances in the Digital Realm</title>
-        <link rel="alternate" href="https://example.org/posts/finance/" />
-        <id>https://example.org/posts/finance/</id>
+        <link rel="alternate" href="https://securified.net/finance/" />
+        <id>https://securified.net/finance/</id>
         <published>2022-05-02T00:00:00Z</published>
         <updated>2022-05-02T00:00:00Z</updated>
         <summary type="html">A brief guide on digital payments.</summary>

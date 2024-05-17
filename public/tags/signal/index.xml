@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>signal on Securified</title>
-  <link rel="alternate" href="https://example.org/tags/signal/" />
-  <link rel="self" href="https://example.org/tags/signal/index.xml" />
+  <link rel="alternate" href="https://securified.net/tags/signal/" />
+  <link rel="self" href="https://securified.net/tags/signal/index.xml" />
   <subtitle>Recent content in signal on Securified</subtitle>
-  <id>https://example.org/tags/signal/</id>
+  <id>https://securified.net/tags/signal/</id>
   <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
   <language>en-us</language>
   <updated>2022-08-03T00:00:00Z</updated>
@@ -15,8 +15,8 @@
   <rights>© Securified 2024</rights>
       <entry>
         <title>A Smörgåsbord of Messengers</title>
-        <link rel="alternate" href="https://example.org/posts/messengers/" />
-        <id>https://example.org/posts/messengers/</id>
+        <link rel="alternate" href="https://securified.net/messengers/" />
+        <id>https://securified.net/messengers/</id>
         <published>2022-08-03T00:00:00Z</published>
         <updated>2022-08-03T00:00:00Z</updated>
         <summary type="html">Privacy and security focused messenger showdown.</summary>
@@ -44,7 +44,7 @@
 <p>Message/call <a href="https://hls.harvard.edu/dept/its/what-is-metadata/">metadata</a> should be protected and private.</p>
 </li>
 <li>
-<p>It needs to be secure and private by <a href="https://example.org/posts/bydefault/"><em>default</em></a>.</p>
+<p>It needs to be secure and private by <a href="https://securified.net/bydefault/"><em>default</em></a>.</p>
 </li>
 <li>
 <p>Governments should not be able to force those running the messenger to break the encryption or <a href="https://en.wikipedia.org/wiki/Backdoor_(computing)">backdoor</a> the software.</p>

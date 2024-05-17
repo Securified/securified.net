@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>siri on Securified</title>
-  <link rel="alternate" href="https://example.org/tags/siri/" />
-  <link rel="self" href="https://example.org/tags/siri/index.xml" />
+  <link rel="alternate" href="https://securified.net/tags/siri/" />
+  <link rel="self" href="https://securified.net/tags/siri/index.xml" />
   <subtitle>Recent content in siri on Securified</subtitle>
-  <id>https://example.org/tags/siri/</id>
+  <id>https://securified.net/tags/siri/</id>
   <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
   <language>en-us</language>
   <updated>2021-11-28T00:00:00Z</updated>
@@ -15,8 +15,8 @@
   <rights>© Securified 2024</rights>
       <entry>
         <title>IoT: The &#39;S&#39; is for Security</title>
-        <link rel="alternate" href="https://example.org/posts/iot/" />
-        <id>https://example.org/posts/iot/</id>
+        <link rel="alternate" href="https://securified.net/iot/" />
+        <id>https://securified.net/iot/</id>
         <published>2021-11-28T00:00:00Z</published>
         <updated>2021-11-28T00:00:00Z</updated>
         <summary type="html">An analysis on the lack of IoT Security.</summary>

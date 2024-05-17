@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Securified</title>
-  <link rel="alternate" href="https://example.org/" />
-  <link rel="self" href="https://example.org/index.xml" />
+  <link rel="alternate" href="https://securified.net/" />
+  <link rel="self" href="https://securified.net/index.xml" />
   <subtitle>Recent content on Securified</subtitle>
-  <id>https://example.org/</id>
+  <id>https://securified.net/</id>
   <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
   <language>en-us</language>
   <updated>2022-08-03T00:00:00Z</updated>
@@ -15,8 +15,8 @@
   <rights>© Securified 2024</rights>
       <entry>
         <title>A Smörgåsbord of Messengers</title>
-        <link rel="alternate" href="https://example.org/posts/messengers/" />
-        <id>https://example.org/posts/messengers/</id>
+        <link rel="alternate" href="https://securified.net/messengers/" />
+        <id>https://securified.net/messengers/</id>
         <published>2022-08-03T00:00:00Z</published>
         <updated>2022-08-03T00:00:00Z</updated>
         <summary type="html">Privacy and security focused messenger showdown.</summary>
@@ -44,7 +44,7 @@
 <p>Message/call <a href="https://hls.harvard.edu/dept/its/what-is-metadata/">metadata</a> should be protected and private.</p>
 </li>
 <li>
-<p>It needs to be secure and private by <a href="https://example.org/posts/bydefault/"><em>default</em></a>.</p>
+<p>It needs to be secure and private by <a href="https://securified.net/bydefault/"><em>default</em></a>.</p>
 </li>
 <li>
 <p>Governments should not be able to force those running the messenger to break the encryption or <a href="https://en.wikipedia.org/wiki/Backdoor_(computing)">backdoor</a> the software.</p>
@@ -171,8 +171,8 @@ from their privacy policy:</p>
       </entry>
       <entry>
         <title>By Default </title>
-        <link rel="alternate" href="https://example.org/posts/bydefault/" />
-        <id>https://example.org/posts/bydefault/</id>
+        <link rel="alternate" href="https://securified.net/bydefault/" />
+        <id>https://securified.net/bydefault/</id>
         <published>2022-07-24T00:00:00Z</published>
         <updated>2022-07-24T00:00:00Z</updated>
         <summary type="html">The importance of privacy and security by default.</summary>
@@ -184,8 +184,8 @@ from their privacy policy:</p>
       </entry>
       <entry>
         <title>Defending your Finances in the Digital Realm</title>
-        <link rel="alternate" href="https://example.org/posts/finance/" />
-        <id>https://example.org/posts/finance/</id>
+        <link rel="alternate" href="https://securified.net/finance/" />
+        <id>https://securified.net/finance/</id>
         <published>2022-05-02T00:00:00Z</published>
         <updated>2022-05-02T00:00:00Z</updated>
         <summary type="html">A brief guide on digital payments.</summary>
@@ -203,8 +203,8 @@ from their privacy policy:</p>
       </entry>
       <entry>
         <title>IoT: The &#39;S&#39; is for Security</title>
-        <link rel="alternate" href="https://example.org/posts/iot/" />
-        <id>https://example.org/posts/iot/</id>
+        <link rel="alternate" href="https://securified.net/iot/" />
+        <id>https://securified.net/iot/</id>
         <published>2021-11-28T00:00:00Z</published>
         <updated>2021-11-28T00:00:00Z</updated>
         <summary type="html">An analysis on the lack of IoT Security.</summary>
@@ -228,8 +228,8 @@ from their privacy policy:</p>
       </entry>
       <entry>
         <title>Web Browsers and Search Engines</title>
-        <link rel="alternate" href="https://example.org/posts/browsers/" />
-        <id>https://example.org/posts/browsers/</id>
+        <link rel="alternate" href="https://securified.net/browsers/" />
+        <id>https://securified.net/browsers/</id>
         <published>2021-11-28T00:00:00Z</published>
         <updated>2021-11-28T00:00:00Z</updated>
         <summary type="html">Browser and search engine recommendations.</summary>
@@ -248,8 +248,8 @@ from their privacy policy:</p>
       </entry>
       <entry>
         <title>About</title>
-        <link rel="alternate" href="https://example.org/about/" />
-        <id>https://example.org/about/</id>
+        <link rel="alternate" href="https://securified.net/about/" />
+        <id>https://securified.net/about/</id>
         <published>0001-01-01T00:00:00Z</published>
         <updated>0001-01-01T00:00:00Z</updated>
         <summary type="html">You may call me &amp;ldquo;&amp;rdquo;. .
@@ -266,8 +266,8 @@ $ whoami $ ls -l content/ technology security privacy $ git config --get remote.
       </entry>
       <entry>
         <title>Contact</title>
-        <link rel="alternate" href="https://example.org/contact/" />
-        <id>https://example.org/contact/</id>
+        <link rel="alternate" href="https://securified.net/contact/" />
+        <id>https://securified.net/contact/</id>
         <published>0001-01-01T00:00:00Z</published>
         <updated>0001-01-01T00:00:00Z</updated>
         <summary type="html">Have a question or curious about pricing? Contact Securified using the info below.
@@ -282,8 +282,8 @@ Signal Send an email to setup communication through Signal.</summary>
       </entry>
       <entry>
         <title>Services</title>
-        <link rel="alternate" href="https://example.org/services/" />
-        <id>https://example.org/services/</id>
+        <link rel="alternate" href="https://securified.net/services/" />
+        <id>https://securified.net/services/</id>
         <published>0001-01-01T00:00:00Z</published>
         <updated>0001-01-01T00:00:00Z</updated>
         <summary type="html">Overview of the services offered by Securified.
@@ -330,8 +330,8 @@ Packages Protected Passwords Package Password manager setup and recommended usag
       </entry>
       <entry>
         <title>Tools</title>
-        <link rel="alternate" href="https://example.org/tools/" />
-        <id>https://example.org/tools/</id>
+        <link rel="alternate" href="https://securified.net/tools/" />
+        <id>https://securified.net/tools/</id>
         <published>0001-01-01T00:00:00Z</published>
         <updated>0001-01-01T00:00:00Z</updated>
         <summary type="html">Product recommendations to aid in privacy and security.

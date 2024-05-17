@@ -111,24 +111,24 @@ menu:
     #   name: about
     #   url: /about/
     #   weight: 10
-    - identifier: Posts
-      name: posts
+    - identifier: posts
+      name: Posts
       url: /posts/
       weight: 20
     - identifier: Tools
-      name: tools
+      name: Tools
       url: /tools/
       weight: 30
     - identifier: Services
-      name: services
+      name: Services
       url: /services/
       weight: 40
     - identifier: contact
-      name: contact
+      name: Contact
       url: /contact/
       weight: 50
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 60
     # - identifier: Search

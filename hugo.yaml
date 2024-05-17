@@ -53,7 +53,7 @@ params:
     enabled: true
     title: "Welcome to Securified"
     subtitle: A slice 🍕 of the internet focused on security and privacy.
-    imageUrl: \img\shield_check_icon-4096.png 
+    imageUrl: shield.png 
     buttons:
           - name: Posts
             url: "/posts"

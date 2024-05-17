@@ -4,7 +4,7 @@ date: "2022-08-03"
 summary: "Privacy and security focused messenger showdown."
 tags: ["signal", "messengers", "texting", "imessage"]
 cover:
-  image: img\poster.png
+  image:  poster.png
   hiddenInList: false
 ---
 

@@ -4,7 +4,7 @@ date: "2022-07-24"
 summary: "The importance of privacy and security by default."
 # tags: []
 cover:
-  image: img\phone.jpg
+  image:  phone.jpg
   hiddenInList: false
 showtoc: false
 ---

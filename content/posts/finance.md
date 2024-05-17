@@ -4,7 +4,7 @@ date: "2022-05-02"
 summary: "A brief guide on digital payments."
 tags: ["finance", "money", "privacy.com", "bank", "purchase"]
 cover:
-  image: img\finance.jpg
+  image:  finance.jpg
   hiddenInList: false
 showtoc: false
 ---

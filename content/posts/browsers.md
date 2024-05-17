@@ -5,7 +5,7 @@ summary: "Browser and search engine recommendations."
 aliases: ["/browsers"]
 tags: ["web browser", "search engine", "brave", "duckduckgo", "safari", "edge", "chrome", "google search"]
 cover:
-  image: img\google.jpg
+  image:  google.jpg
   hiddenInList: false
 ---
 

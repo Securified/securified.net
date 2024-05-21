@@ -2,7 +2,7 @@ baseURL: https://securified.net/
 languageCode: en-us
 title: Securified
 theme: ["PaperMod"]
-copyright: "© Securified 2024"
+copyright: "© Securified 2024."
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -20,9 +20,9 @@ minify:
 params:
   env: production
   title: "Securified"
-  description: "A slice of the internet focused on security and privacy"
+  description: "A slice of the internet focused on personal security and privacy"
   keywords: [Blog, Research, Security, Privacy]
-  author: Securified
+  # author: Securified
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
@@ -52,13 +52,13 @@ params:
   profileMode:
     enabled: true
     title: "Welcome to Securified"
-    subtitle: A slice 🍕 of the internet focused on security and privacy.
+    subtitle: A slice 🍕 of the internet focused on personal security and privacy.
     imageUrl: shield.png 
     buttons:
+          - name: Services
+            url: "/services"
           - name: Posts
             url: "/posts"
-          - name: Contact
-            url: "/contact/"
 
   # socialIcons:
   #   - name: twitter
@@ -77,10 +77,10 @@ params:
     hiddenInList: true # hide on list pages and home
     # hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/"
-    Text: "Source code" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/"
+  #   Text: "Source code" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   fuseOpts:
     isCaseSensitive: false

@@ -9,10 +9,10 @@
   <language>en-us</language>
   <updated>2022-08-03T00:00:00Z</updated>
   <author>
-    <name>Securified</name>
+    
     
   </author>
-  <rights>© Securified 2024</rights>
+  <rights>© Securified 2024.</rights>
       <entry>
         <title>A Smörgåsbord of Messengers</title>
         <link rel="alternate" href="https://securified.net/messengers/" />
@@ -286,46 +286,8 @@ Signal Send an email to setup communication through Signal.</summary>
         <id>https://securified.net/services/</id>
         <published>0001-01-01T00:00:00Z</published>
         <updated>0001-01-01T00:00:00Z</updated>
-        <summary type="html">Overview of the services offered by Securified.
-Packages Protected Passwords Package Password manager setup and recommended usage. Master Multifactor Guidance on how to stop would be hackers in their tracks with multifactor authentication. Web Browsers, Search Engines and Extensions Does your choice of web browser matter? Yes. Get setup with the best browser and search engine for your needs. Private App Alternatives Many of the apps you use on your phone track everything you do.</summary>
-          <content type="html"><![CDATA[<p>Overview of the services offered by Securified.</p>
-<h2 id="packages">Packages</h2>
-<h4 id="protected-passwords-package">Protected Passwords Package</h4>
-<ul>
-<li>Password manager setup and recommended usage.
-<!-- raw HTML omitted -->
-</li>
-</ul>
-<h4 id="master-multifactor">Master Multifactor</h4>
-<ul>
-<li>Guidance on how to stop would be hackers in their tracks with multifactor authentication.</li>
-</ul>
-<h4 id="web-browsers-search-engines-and-extensions">Web Browsers, Search Engines and Extensions</h4>
-<ul>
-<li>Does your choice of web browser matter? Yes. Get setup with the best browser and search engine for your needs.</li>
-</ul>
-<h4 id="private-app-alternatives">Private App Alternatives</h4>
-<ul>
-<li>Many of the apps you use on your phone track everything you do. This packages will get you setup with alternative non-tracking apps.</li>
-</ul>
-<hr>
-<h2 id="general-securityprivacy-consulting">General Security/Privacy Consulting</h2>
-<p>Hourly. Some of the things this can cover:</p>
-<ul>
-<li>Password managers</li>
-<li>Secure email</li>
-<li>Secure phone setup</li>
-<li>Cloud storage strategy</li>
-<li>Secure network design and installation</li>
-<li>Virtual debit cards - Privacy.com</li>
-<li>VPN setup</li>
-<li>Secure and private notes</li>
-<li>Web browsers/search engines</li>
-<li>Multifactor authentication</li>
-<li>Private app alternatives</li>
-</ul>
-<hr>
-<h3 id="contact-for-more-details-and-pricing">Contact for more details and pricing.</h3>
+        <summary type="html">Coming soon</summary>
+          <content type="html"><![CDATA[<p>Coming soon</p>
 ]]></content>
       </entry>
       <entry>
@@ -334,9 +296,9 @@ Packages Protected Passwords Package Password manager setup and recommended usag
         <id>https://securified.net/tools/</id>
         <published>0001-01-01T00:00:00Z</published>
         <updated>0001-01-01T00:00:00Z</updated>
-        <summary type="html">Product recommendations to aid in privacy and security.
+        <summary type="html">Securified recommended tools.
 Password Manager 1Password or Proton Pass Multifactor App Aegis or Authy Email Proton Mail Web Browser Brave Search Engine Brave Search or Duckduckgo Notes Standard Notes Messenger Signal. Cloud Storage Proton Drive or Tresorit Encryption Software Picocrypt or Cryptomator Calendar Proton Calendar Private YouTube Proxy Invidious </summary>
-          <content type="html"><![CDATA[<p>Product recommendations to aid in privacy and security.</p>
+          <content type="html"><![CDATA[<p>Securified recommended tools.</p>
 <table>
 <thead>
 <tr>
@@ -346,47 +308,47 @@ Password Manager 1Password or Proton Pass Multifactor App Aegis or Authy Email P
 </thead>
 <tbody>
 <tr>
-<td>Password Manager</td>
+<td><code>Password Manager</code></td>
 <td><a href="https://1password.com/">1Password</a> or <a href="https://proton.me/pass">Proton Pass</a></td>
 </tr>
 <tr>
-<td>Multifactor App</td>
+<td><code>Multifactor App</code></td>
 <td><a href="https://getaegis.app/">Aegis</a> or <a href="https://authy.com/">Authy</a></td>
 </tr>
 <tr>
-<td>Email</td>
+<td><code>Email</code></td>
 <td><a href="https://proton.me/">Proton Mail</a></td>
 </tr>
 <tr>
-<td>Web Browser</td>
+<td><code>Web Browser</code></td>
 <td><a href="https://brave.com/">Brave</a></td>
 </tr>
 <tr>
-<td>Search Engine</td>
+<td><code>Search Engine</code></td>
 <td><a href="https://search.brave.com/default">Brave Search</a> or <a href="https://duckduckgo.com/">Duckduckgo</a></td>
 </tr>
 <tr>
-<td>Notes</td>
+<td><code>Notes</code></td>
 <td><a href="https://standardnotes.com/">Standard Notes</a></td>
 </tr>
 <tr>
-<td>Messenger</td>
+<td><code>Messenger</code></td>
 <td><a href="https://www.signal.org/">Signal</a>.</td>
 </tr>
 <tr>
-<td>Cloud Storage</td>
+<td><code>Cloud Storage</code></td>
 <td><a href="https://drive.proton.me/">Proton Drive</a> or <a href="https://tresorit.com/">Tresorit</a></td>
 </tr>
 <tr>
-<td>Encryption Software</td>
+<td><code>Encryption Software</code></td>
 <td><a href="https://github.com/HACKERALERT/Picocrypt">Picocrypt</a> or <a href="https://cryptomator.org/">Cryptomator</a></td>
 </tr>
 <tr>
-<td>Calendar</td>
+<td><code>Calendar</code></td>
 <td><a href="https://calendar.proton.me/">Proton Calendar</a></td>
 </tr>
 <tr>
-<td>Private YouTube Proxy</td>
+<td><code>Private YouTube Proxy</code></td>
 <td><a href="https://farside.link/invidious">Invidious</a></td>
 </tr>
 </tbody>

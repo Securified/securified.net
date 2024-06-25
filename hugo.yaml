@@ -52,7 +52,8 @@ params:
   profileMode:
     enabled: true
     title: "Welcome to Securified"
-    subtitle: A slice 🍕 of the internet focused on personal security and privacy.
+    subtitle: Specializing in personal Cybersecurity and Cyberprivacy consulting. 
+  #A slice 🍕 of the internet focused on personal security and privacy.
     imageUrl: shield.png 
     buttons:
           - name: Services
@@ -127,9 +128,9 @@ menu:
       name: Contact
       url: /contact/
       weight: 50
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags/
       weight: 60
     # - identifier: Search
     #   name: search

@@ -286,8 +286,32 @@ Signal Send an email to setup communication through Signal.</summary>
         <id>https://securified.net/services/</id>
         <published>0001-01-01T00:00:00Z</published>
         <updated>0001-01-01T00:00:00Z</updated>
-        <summary type="html">Coming soon</summary>
-          <content type="html"><![CDATA[<p>Coming soon</p>
+        <summary type="html">Need help securing your digital accounts or switching to privacy respecting services? Securified can assist with this and more: Switch to Signal, a private messenger. Configure a password manager. Ensure your files and photos are safely backed up from ransomware. Protecting kids online. Audit the security of your home network and personal devices. Securing your finances (banking, crypto currency, virtual credit cards). Degoogle your life. Securing your accounts with multifactor authentication.</summary>
+          <content type="html"><![CDATA[<h4 id="need-help-securing-your-digital-accounts-or-switching-to-privacy-respecting-services-securified-can-assist-with-this-and-more">Need help securing your digital accounts or switching to privacy respecting services? Securified can assist with this and more:</h4>
+<!-- raw HTML omitted -->
+<ul>
+<li>Switch to Signal, a private messenger.</li>
+<li>Configure a password manager.</li>
+<li>Ensure your files and photos are safely backed up from ransomware.</li>
+<li>Protecting kids online.</li>
+<li>Audit the security of your home network and personal devices.</li>
+<li>Securing your finances (banking, crypto currency, virtual credit cards).</li>
+<li><a href="https://en.wikipedia.org/wiki/DeGoogle/">Degoogle</a> your life.</li>
+<li>Securing your accounts with multifactor authentication.</li>
+<li>GrapheneOS; a private and secure phone.</li>
+<li>VPN setup.</li>
+<li>How to block ads and trackers.</li>
+<li>Migrate to private services (notes, email, web browser)</li>
+<li>Any other General Security/Privacy.</li>
+</ul>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h4 id="every-job-is-tailored-to-the-customer-to-fit-their-needs-desires-and-threat-model">Every job is tailored to the customer to fit their needs, desires and threat model.</h4>
+<h4 id="contactcontact-for-more-details-and-pricing"><a href="/contact/">Contact</a> for more details and pricing.</h4>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 ]]></content>
       </entry>
       <entry>

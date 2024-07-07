@@ -13,7 +13,7 @@ Securified recommended tools.
 |                   |                                                                                               |
 | ----------------- | --------------------------------------------------------------------------------------------- |
 | `Password Manager`  |[1Password]( https://1password.com/) or [Proton Pass](https://proton.me/pass)                  |
-| `Multifactor App`   |  [Aegis](https://getaegis.app/) or [Authy](https://authy.com/)                                                                   |
+| `Multifactor App`   |  [Aegis](https://getaegis.app/) or [Ente Auth](https://ente.io/auth/)                                                                   |
 | `Email`             | [Proton Mail](https://proton.me/)                                                             |
 | `Web Browser`       | [Brave](https://brave.com/)                                                                   |
 | `Search Engine`    | [Brave Search](https://search.brave.com/default) or [Duckduckgo](https://duckduckgo.com/)     |                                                                       

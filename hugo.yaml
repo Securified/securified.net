@@ -20,8 +20,8 @@ minify:
 params:
   env: production
   title: "Securified"
-  description: "A slice of the internet focused on personal security and privacy"
-  keywords: [Blog, Research, Security, Privacy]
+  description: "Specializing in personal Cybersecurity and Cyberprivacy consulting."
+  keywords: [Blog, Consulting, Cybersecurity, Privacy]
   # author: Securified
   DateFormat: "January 2, 2006"
   defaultTheme: auto

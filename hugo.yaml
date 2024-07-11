@@ -54,7 +54,7 @@ params:
     title: "Welcome to Securified"
     subtitle: Specializing in personal Cybersecurity and Cyberprivacy consulting. 
   #A slice 🍕 of the internet focused on personal security and privacy.
-    imageUrl: shield.png 
+    imageUrl: shield-checkmark-line-icon.png 
     buttons:
           - name: Services
             url: "/services"

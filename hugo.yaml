@@ -47,14 +47,13 @@ params:
 
   # homeInfoParams:
   #   Title: "Welcome to Securified"
-  #   Content: A slice of the internet focused on security and privacy.
+  #   Content: Specializing in personal Cybersecurity and Cyberprivacy consulting.
   
   profileMode:
     enabled: true
     title: "Welcome to Securified"
     subtitle: Specializing in personal Cybersecurity and Cyberprivacy consulting. 
-  #A slice 🍕 of the internet focused on personal security and privacy.
-    imageUrl: shield-checkmark-line-icon.png 
+    imageUrl: shield-checkmark-line-icon-4.png 
     buttons:
           - name: Services
             url: "/services"

@@ -51,9 +51,10 @@ params:
   
   profileMode:
     enabled: true
-    title: "Welcome to SECURIFIED"
+    title: "SECURIFIED"
     subtitle: Specializing in personal Cybersecurity and Cyberprivacy consulting. 
     imageUrl: shield-checkmark-line-icon-4.png 
+    Content: Specializing in personal Cybersecurity and Cyberprivacy consulting.
     buttons:
           - name: Services
             url: "/services"

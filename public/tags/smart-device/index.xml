@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>smart device on Securified</title>
+  <title>smart device on SECURIFIED</title>
   <link rel="alternate" href="https://securified.net/tags/smart-device/" />
   <link rel="self" href="https://securified.net/tags/smart-device/index.xml" />
-  <subtitle>Recent content in smart device on Securified</subtitle>
+  <subtitle>Recent content in smart device on SECURIFIED</subtitle>
   <id>https://securified.net/tags/smart-device/</id>
   <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
   <language>en-us</language>
@@ -12,7 +12,7 @@
     
     
   </author>
-  <rights>© Securified 2024.</rights>
+  <rights>© SECURIFIED 2024.</rights>
       <entry>
         <title>IoT: The &#39;S&#39; is for Security</title>
         <link rel="alternate" href="https://securified.net/iot/" />

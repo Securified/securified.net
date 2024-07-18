@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>web browser on Securified</title>
+  <title>web browser on SECURIFIED</title>
   <link rel="alternate" href="https://securified.net/tags/web-browser/" />
   <link rel="self" href="https://securified.net/tags/web-browser/index.xml" />
-  <subtitle>Recent content in web browser on Securified</subtitle>
+  <subtitle>Recent content in web browser on SECURIFIED</subtitle>
   <id>https://securified.net/tags/web-browser/</id>
   <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
   <language>en-us</language>
@@ -12,7 +12,7 @@
     
     
   </author>
-  <rights>© Securified 2024.</rights>
+  <rights>© SECURIFIED 2024.</rights>
       <entry>
         <title>Web Browsers and Search Engines</title>
         <link rel="alternate" href="https://securified.net/browsers/" />

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Categories on Securified</title>
+  <title>Categories on SECURIFIED</title>
   <link rel="alternate" href="https://securified.net/categories/" />
   <link rel="self" href="https://securified.net/categories/index.xml" />
-  <subtitle>Recent content in Categories on Securified</subtitle>
+  <subtitle>Recent content in Categories on SECURIFIED</subtitle>
   <id>https://securified.net/categories/</id>
   <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
   <language>en-us</language>
@@ -12,7 +12,7 @@
     
     
   </author>
-  <rights>© Securified 2024.</rights>
+  <rights>© SECURIFIED 2024.</rights>
 
 </feed>
 

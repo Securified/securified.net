@@ -21,7 +21,7 @@ params:
   env: production
   title: "SECURIFIED"
   description: "Specializing in personal Cybersecurity and Cyberprivacy consulting."
-  keywords: [Blog, Consulting, Cybersecurity, Privacy]
+  keywords: [Blog, Consulting, Cybersecurity, Privacy, Cyberprivacy, Security]
   # author: SECURIFIED
   DateFormat: "January 2, 2006"
   defaultTheme: auto
@@ -49,6 +49,13 @@ params:
   #   Title: "Welcome to Securified"
   #   Content: Specializing in personal Cybersecurity and Cyberprivacy consulting.
   
+  label:
+    # text: "Home"
+    icon: /favicon.ico
+    iconHeight: 35
+    iconWidth: 35
+
+
   profileMode:
     enabled: true
     title: "SECURIFIED"
@@ -62,16 +69,24 @@ params:
             url: "/posts"
 
   # socialIcons:
-  #   - name: twitter
-  #     url: "https://twitter.com/"
   #   - name: mastodon
   #     url: "https://mastoid.dev/"
   #   - name: matrix
   #     url: "https://matrix.to/#/"
   #   - name: github
-  #     url: "https://github.com/"
+  #     url: "https://github.com/Securified/"
   #   - name: rss
   #     url: /index.xml
+  #   - name: monero
+  #     url: "https://sethforprivacy.com/donate"
+  #   - name: email
+  #     url: "mailto:sethforprivacy.vqhyi@simplelogin.com"
+  #   - name: pgpkey
+  #     url: "/about/#primary-pgp-key"
+  #   - name: twitter
+  #     url: "https://x.com/sethforprivacy"
+
+
 
   cover:
     hidden: false # hide everywhere but not in structured data

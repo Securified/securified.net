@@ -12,7 +12,7 @@
     
     
   </author>
-  <rights>© SECURIFIED 2024.</rights>
+  
       <entry>
         <title>A Smörgåsbord of Messengers</title>
         <link rel="alternate" href="https://securified.net/messengers/" />
@@ -318,7 +318,7 @@ Signal Send an email to setup communication through Signal.</summary>
         <published>0001-01-01T00:00:00Z</published>
         <updated>0001-01-01T00:00:00Z</updated>
         <summary type="html">Securified recommended tools.
-Password Manager 1Password or Proton Pass Multifactor App Aegis or Ente Auth Email Proton Mail Web Browser Brave Search Engine Brave Search or Duckduckgo Notes Standard Notes Messenger Signal. Cloud Storage Proton Drive or Tresorit Encryption Software Picocrypt or Cryptomator Calendar Proton Calendar Private YouTube Proxy Invidious </summary>
+Password Manager 1Password or Proton Pass Multifactor App Aegis or Ente Auth Email Proton Mail Web Browser Brave Search Engine Brave Search or Duckduckgo Notes Standard Notes Messenger Signal. Cloud Storage Proton Drive or Tresorit Encryption Software Picocrypt or Cryptomator Calendar Proton Calendar Google/Apple Maps Alternative Organic Maps or Magic Earth Private YouTube Proxy Invidious </summary>
           <content type="html"><![CDATA[<p>Securified recommended tools.</p>
 <table>
 <thead>
@@ -330,7 +330,7 @@ Password Manager 1Password or Proton Pass Multifactor App Aegis or Ente Auth Ema
 <tbody>
 <tr>
 <td><code>Password Manager</code></td>
-<td><a href="https://1password.com/">1Password</a> or <a href="https://proton.me/pass">Proton Pass</a></td>
+<td><a href="https://1password.com/">1Password</a> or <a href="https://pass.proton.me/">Proton Pass</a></td>
 </tr>
 <tr>
 <td><code>Multifactor App</code></td>
@@ -338,7 +338,7 @@ Password Manager 1Password or Proton Pass Multifactor App Aegis or Ente Auth Ema
 </tr>
 <tr>
 <td><code>Email</code></td>
-<td><a href="https://proton.me/">Proton Mail</a></td>
+<td><a href="https://mail.proton.me/">Proton Mail</a></td>
 </tr>
 <tr>
 <td><code>Web Browser</code></td>
@@ -367,6 +367,10 @@ Password Manager 1Password or Proton Pass Multifactor App Aegis or Ente Auth Ema
 <tr>
 <td><code>Calendar</code></td>
 <td><a href="https://calendar.proton.me/">Proton Calendar</a></td>
+</tr>
+<tr>
+<td><code>Google/Apple Maps Alternative</code></td>
+<td><a href="https://organicmaps.app/">Organic Maps</a> or <a href="https://www.magicearth.com/">Magic Earth</a></td>
 </tr>
 <tr>
 <td><code>Private YouTube Proxy</code></td>

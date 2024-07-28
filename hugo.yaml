@@ -2,13 +2,16 @@ baseURL: https://securified.net/
 languageCode: en-us
 title: SECURIFIED
 theme: ["PaperMod"]
-copyright: "© SECURIFIED 2024."
+# copyright: "© SECURIFIED 2024."
+# delete footer in layouts/partials/footer.html
+
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableGitInfo: false
+
 
 permalinks:
   posts: "/:filename"
@@ -21,12 +24,11 @@ params:
   env: production
   title: "SECURIFIED"
   description: "Specializing in personal Cybersecurity and Cyberprivacy consulting."
-  keywords: [Blog, Consulting, Cybersecurity, Privacy, Cyberprivacy, Security]
+  keywords: [Blog, Consulting, Cybersecurity, Privacy, Cyberprivacy, Security, technology]
   # author: SECURIFIED
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
-
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
@@ -41,6 +43,10 @@ params:
   showtoc: true
   tocopen: false
 
+  footer:
+    text: "hi"
+    hideCopyright: true
+  
   assets:
     disableHLJS: true
     disableFingerprinting: false
@@ -70,22 +76,17 @@ params:
 
   # socialIcons:
   #   - name: mastodon
-  #     url: "https://mastoid.dev/"
-  #   - name: matrix
-  #     url: "https://matrix.to/#/"
+  #     url: "https://infosec.exchange/@securified"
   #   - name: github
   #     url: "https://github.com/Securified/"
+  #   # - name: monero
+  #   #   url: "https://sethforprivacy.com/donate"
+  #   - name: email
+  #     url: "mailto:contact@securified.net"
+  #   # - name: pgpkey
+  #   #   url: "/about/#primary-pgp-key"
   #   - name: rss
   #     url: /index.xml
-  #   - name: monero
-  #     url: "https://sethforprivacy.com/donate"
-  #   - name: email
-  #     url: "mailto:sethforprivacy.vqhyi@simplelogin.com"
-  #   - name: pgpkey
-  #     url: "/about/#primary-pgp-key"
-  #   - name: twitter
-  #     url: "https://x.com/sethforprivacy"
-
 
 
   cover:

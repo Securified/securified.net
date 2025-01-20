@@ -2,7 +2,7 @@ baseURL: https://securified.net/
 languageCode: en-us
 title: SECURIFIED
 theme: ["PaperMod"]
-# copyright: "© SECURIFIED 2024."
+# copyright: "© SECURIFIED 2025."
 # delete footer in layouts/partials/footer.html
 
 
@@ -23,7 +23,7 @@ minify:
 params:
   env: production
   title: "SECURIFIED"
-  description: "Specializing in personal Cybersecurity and Cyberprivacy consulting."
+  description: "Personal Cybersecurity and Cyberprivacy consulting."
   keywords: [Blog, Consulting, Cybersecurity, Privacy, Cyberprivacy, Security, technology]
   # author: SECURIFIED
   DateFormat: "January 2, 2006"
@@ -65,9 +65,9 @@ params:
   profileMode:
     enabled: true
     title: "SECURIFIED"
-    subtitle: Specializing in personal Cybersecurity and Cyberprivacy consulting. 
+    subtitle: Personal Cybersecurity and Cyberprivacy consulting. 
     imageUrl: shield-checkmark-line-icon-4.png 
-    Content: Specializing in personal Cybersecurity and Cyberprivacy consulting.
+    Content: Personal Cybersecurity and Cyberprivacy consulting.
     buttons:
           - name: Services
             url: "/services"

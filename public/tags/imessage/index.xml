@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>imessage on SECURIFIED</title>
+  <title>Imessage on SECURIFIED</title>
   <link rel="alternate" href="https://securified.net/tags/imessage/" />
   <link rel="self" href="https://securified.net/tags/imessage/index.xml" />
-  <subtitle>Recent content in imessage on SECURIFIED</subtitle>
+  <subtitle>Recent content in Imessage on SECURIFIED</subtitle>
   <id>https://securified.net/tags/imessage/</id>
-  <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
+  <generator uri="http://gohugo.io" version="0.126.2">Hugo</generator>
   <language>en-us</language>
   <updated>2022-08-03T00:00:00Z</updated>
   <author>

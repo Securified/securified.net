@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>edge on SECURIFIED</title>
+  <title>Edge on SECURIFIED</title>
   <link rel="alternate" href="https://securified.net/tags/edge/" />
   <link rel="self" href="https://securified.net/tags/edge/index.xml" />
-  <subtitle>Recent content in edge on SECURIFIED</subtitle>
+  <subtitle>Recent content in Edge on SECURIFIED</subtitle>
   <id>https://securified.net/tags/edge/</id>
-  <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
+  <generator uri="http://gohugo.io" version="0.126.2">Hugo</generator>
   <language>en-us</language>
   <updated>2021-11-28T00:00:00Z</updated>
   <author>

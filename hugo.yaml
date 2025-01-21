@@ -73,6 +73,8 @@ params:
             url: "/services"
           - name: Posts
             url: "/posts"
+          - name: Contact
+            url: "/contact"
 
   # socialIcons:
   #   - name: mastodon

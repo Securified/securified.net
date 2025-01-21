@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>signal on SECURIFIED</title>
+  <title>Signal on SECURIFIED</title>
   <link rel="alternate" href="https://securified.net/tags/signal/" />
   <link rel="self" href="https://securified.net/tags/signal/index.xml" />
-  <subtitle>Recent content in signal on SECURIFIED</subtitle>
+  <subtitle>Recent content in Signal on SECURIFIED</subtitle>
   <id>https://securified.net/tags/signal/</id>
-  <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
+  <generator uri="http://gohugo.io" version="0.126.2">Hugo</generator>
   <language>en-us</language>
   <updated>2022-08-03T00:00:00Z</updated>
   <author>

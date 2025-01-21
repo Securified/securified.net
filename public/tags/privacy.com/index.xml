@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>privacy.com on SECURIFIED</title>
+  <title>Privacy.com on SECURIFIED</title>
   <link rel="alternate" href="https://securified.net/tags/privacy.com/" />
   <link rel="self" href="https://securified.net/tags/privacy.com/index.xml" />
-  <subtitle>Recent content in privacy.com on SECURIFIED</subtitle>
+  <subtitle>Recent content in Privacy.com on SECURIFIED</subtitle>
   <id>https://securified.net/tags/privacy.com/</id>
-  <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
+  <generator uri="http://gohugo.io" version="0.126.2">Hugo</generator>
   <language>en-us</language>
   <updated>2022-05-02T00:00:00Z</updated>
   <author>

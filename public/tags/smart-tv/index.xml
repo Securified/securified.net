@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>smart tv on SECURIFIED</title>
+  <title>Smart Tv on SECURIFIED</title>
   <link rel="alternate" href="https://securified.net/tags/smart-tv/" />
   <link rel="self" href="https://securified.net/tags/smart-tv/index.xml" />
-  <subtitle>Recent content in smart tv on SECURIFIED</subtitle>
+  <subtitle>Recent content in Smart Tv on SECURIFIED</subtitle>
   <id>https://securified.net/tags/smart-tv/</id>
-  <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
+  <generator uri="http://gohugo.io" version="0.126.2">Hugo</generator>
   <language>en-us</language>
   <updated>2021-11-28T00:00:00Z</updated>
   <author>

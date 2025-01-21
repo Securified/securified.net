@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>web browser on SECURIFIED</title>
+  <title>Web Browser on SECURIFIED</title>
   <link rel="alternate" href="https://securified.net/tags/web-browser/" />
   <link rel="self" href="https://securified.net/tags/web-browser/index.xml" />
-  <subtitle>Recent content in web browser on SECURIFIED</subtitle>
+  <subtitle>Recent content in Web Browser on SECURIFIED</subtitle>
   <id>https://securified.net/tags/web-browser/</id>
-  <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
+  <generator uri="http://gohugo.io" version="0.126.2">Hugo</generator>
   <language>en-us</language>
   <updated>2021-11-28T00:00:00Z</updated>
   <author>

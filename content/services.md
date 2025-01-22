@@ -1,35 +1,21 @@
 ---
-title: "Services"
+title: "Securifed Consulting Services"
 hidemeta: true
 showtoc: false
 ShowPostNavLinks: false
 ---
 
-#### Need help securing your digital accounts or switching to privacy-respecting services? Securified can assist with the following services and more:
+Our plans are flexible. Services can be added or removed as needed and every job is tailored to the customer’s specific needs.
 
-- Switching to Signal, a private messenger
-- Configuring a password manager
-- Ensuring your files and photos are safely backed up from ransomware
-- Protecting the family online
-- Auditing the security of your home network and personal devices
-- Securing your finances (banking, crypto currency, virtual credit cards)
-- [Degoogling](https://en.wikipedia.org/wiki/DeGoogle/) your life
-- Blocking ads and trackers
-- Securing your accounts with multifactor authentication
-- Migrating to private services (notes, email, web browser, VPN)
-- GrapheneOS; a private and secure phone
-
-<!-- - Any other General Security/Privacy. -->
-<!-- - Want to switch to a private email account, we can switch for you.  Migrate from tracking email (Gmail, icloud, Outlook) to secure and private email.  -->
-<!-- - Web Browsers, Search Engines and Extensions. -->
-<!-- - You know Ring video cameras are bad, we can replace them. -->
+### Cybersecurity Essentials: $200 (~2.5 hours work)
+Cybersecurity basics focuses on three key areas to help keep you protected:
+ 
+- Proper Password Management:  Covers why bad password hygiene puts your accounts at risk, and password manager setup and proper usage
+- File Storage and Backup: Ensuring your files and photos are safely backed up from threats
+- Blocking Ads and Trackers: Benefits of blocking ads and trackers on your devices and how to do this
 
 
-#### Every job is tailored to the customer's specific needs, desires and/or threat model.
+### Cybersecurity and Cyberprivacy Advanced: $90/hour
+Take your cybersecurity to the next level with Cybersecurity and Cyberprivacy Advanced. 
 
 ####  [Contact](/contact/) for more details and pricing.
-
-
-<!--  starting at _ an hour -->
-
-<!-- > Degoogle: "...a grassroots campaign that has spawned as privacy advocates urge users to stop using Google products entirely due to growing privacy concerns regarding the company. The term refers to the act of removing Google from one's life." - https://en.wikipedia.org/wiki/DeGoogle -->

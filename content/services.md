@@ -16,7 +16,8 @@ Cybersecurity basics focuses on three key areas to help keep you protected:
 
 
 ### Cybersecurity and Cyberprivacy Advanced: $90/hour
-Elevate your cybersecurity knowledge with our comprehensive Cybersecurity and Cyberprivacy Advanced service, tailored to meet your specific needs. This service covers a wide array of topics designed to enhance your digital security and privacy.
+
+Elevate your cybersecurity with our customized Cybersecurity and Cyberprivacy Advanced service, focusing on your specific needs for enhanced digital security and privacy. Topics can include: 
 
 1. **Utilizing Private Search Engines:** We will guide you on using private search engines that do not sell your data or display malicious ads leading to potentially harmful websites.
 

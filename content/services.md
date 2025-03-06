@@ -36,12 +36,12 @@ Elevate your cybersecurity knowledge with our comprehensive Cybersecurity and Cy
 
 9. **Degoogling Your Life:** Our service includes advice on removing Google's influence from your digital life for increased privacy.
 
-10. **Cryptocurrency:** We will provide an overview of cryptocurrencies and their role in securing online transactions.
+10. **Cryptocurrency:** We help secure your digital assets by guiding you through best practices for acquiring, storing, and safeguarding crypto, including setting up secure wallets, understanding risks/benefits of platforms, staying informed on industry news & trends.
 
-11. **Securing Accounts with Multifactor Authentication:** Learn how to secure your accounts using multifactor authentication methods for added security.
+12. **Securing Accounts with Multifactor Authentication:** Learn how to secure your accounts using multifactor authentication methods for added security.
 
-12. **Migrating to Private Services:** We will guide you through the process of migrating to private services for notes, email, web browsing, and VPN connections.
+13. **Migrating to Private Services:** We will guide you through the process of migrating to private services for notes, email, web browsing, and VPN connections.
 
-13. **Reviewing Device Settings:** Our service includes a review of your device settings to ensure they are optimized for security and privacy.
+14. **Reviewing Device Settings:** Our service includes a review of your device settings to ensure they are optimized for security and privacy.
 
 ####  [Contact](/contact/) for more details and pricing.

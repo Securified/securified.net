@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Texting on SECURIFIED</title>
-  <link rel="alternate" href="https://securified.net/tags/texting/" />
-  <link rel="self" href="https://securified.net/tags/texting/index.xml" />
-  <subtitle>Recent content in Texting on SECURIFIED</subtitle>
-  <id>https://securified.net/tags/texting/</id>
-  <generator uri="http://gohugo.io" version="0.126.2">Hugo</generator>
-  <language>en-us</language>
-  <updated>2022-08-03T00:00:00Z</updated>
-  <author>
-    
-    
-  </author>
-  
-      <entry>
-        <title>A Smörgåsbord of Messengers</title>
-        <link rel="alternate" href="https://securified.net/messengers/" />
-        <id>https://securified.net/messengers/</id>
-        <published>2022-08-03T00:00:00Z</published>
-        <updated>2022-08-03T00:00:00Z</updated>
-        <summary type="html">Privacy and security focused messenger showdown.</summary>
-          <content type="html"><![CDATA[<blockquote>
-<p>TL;DR: Signal is the best messenger/calling app. Every other messenger has design flaws that affect user security and privacy. Signal is widely regarded as the most secure and private messenger currently available.</p>
-</blockquote>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Texting on SECURIFIED</title>
+    <link>http://localhost:1313/tags/texting/</link>
+    <description>Recent content in Texting on SECURIFIED</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/texting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Smörgåsbord of Messengers</title>
+      <link>http://localhost:1313/blog/messengers/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/messengers/</guid>
+      <description>Privacy and security focused messenger showdown.</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>TL;DR: Signal is the best messenger/calling app. Every other messenger has design flaws that affect user security and privacy. Signal is widely regarded as the most secure and private messenger currently available.</p></blockquote>
 <hr>
 <h3 id="what-makes-a-good-messenger">What Makes a Good Messenger</h3>
 <p>A messenger that respects user privacy and is secure by modern standards, needs to meet a few criteria:</p>
@@ -37,14 +30,12 @@
 <p>The <a href="https://www.fortinet.com/resources/cyberglossary/what-is-cryptography">cryptography</a> used for the end-to-end encryption needs to be implemented properly using audited, reputable, and verifiable protocols.</p>
 </li>
 </ol>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
 <ol start="4">
 <li>
 <p>Message/call <a href="https://hls.harvard.edu/dept/its/what-is-metadata/">metadata</a> should be protected and private.</p>
 </li>
 <li>
-<p>It needs to be secure and private by <a href="https://securified.net/bydefault/"><em>default</em></a>.</p>
+<p>It needs to be secure and private by <a href="http://localhost:1313/blog/bydefault/"><em>default</em></a>.</p>
 </li>
 <li>
 <p>Governments should not be able to force those running the messenger to break the encryption or <a href="https://en.wikipedia.org/wiki/Backdoor_(computing)">backdoor</a> the software.</p>
@@ -81,24 +72,17 @@
 </li>
 </ul>
 <h4 id="signal-and-phone-numbers">Signal and Phone Numbers</h4>
-<!-- raw HTML omitted -->
 <p>Signal requires a phone number for registration and use. This raises a privacy concern for some as anyone you message in Signal can see your phone number. This can be partially solved by using a <a href="https://www.howtogeek.com/712588/what-is-a-burner-phone-and-when-should-you-use-one/">burner phone</a> or <a href="https://www.voip.com/">VoIP</a> number when registering with Signal. Signal has said they are working on adding usernames that may replace phone numbers.</p>
 <p>Enable registration lock and <a href="https://support.signal.org/hc/en-us/articles/360007059792-Registration-Lock">set a pin</a> in Signal. This will require a pin to be entered before the same number can be registered with Signal again, helping to prevent your Signal account from getting stolen.</p>
 <p>Due to the secure way Signal has been designed, messages are not backed up or stored on the Signal servers. This means when installing Signal on a different device, you will need to <a href="https://support.signal.org/hc/en-us/articles/360007059752-Backup-and-Restore-Messages">transfer</a> messages to the new devices.</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
 <hr>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
 <h3 id="textingsms">Texting/SMS</h3>
 <p><a href="https://en.wikipedia.org/wiki/SMS">SMS</a>/<a href="https://en.wikipedia.org/wiki/Multimedia_Messaging_Service">MMS</a> (commonly referred to as &ldquo;texting&rdquo;), and phone calling is the most common form of communication, but it is neither <a href="https://www.howtogeek.com/709373/why-sms-text-messages-arent-private-or-secure/">secure</a> nor <a href="https://www.usatoday.com/story/tech/columnist/2016/04/16/texting-texts-security-hacking/83118320/">private</a>.</p>
-<!-- raw HTML omitted -->
 <p>Your <a href="https://en.wikipedia.org/wiki/List_of_United_States_wireless_communications_service_providers">cell carrier</a> can read your messages/phone calls due to the lack of <a href="https://www.ibm.com/topics/end-to-end-encryption">end-to-end encryption</a>. Some carriers encrypt part of the journey the message/call data takes, but only between the <a href="https://www.rokacom.com/are-text-messages-encrypted%5D">phone and cell tower</a>. They then decrypt the data at the cell tower and are able to view its content. They <a href="https://www.nbcnews.com/technolog/how-long-do-wireless-carriers-keep-your-data-120367">store</a> this decrypted message/phone data for varying lengths of time, up to <a href="https://news.law.fordham.edu/jcfl/2016/06/02/cell-phone-forensics-powerful-tools-wielded-by-federal-investigators/">seven years</a>.</p>
 <p>Every second your phone is online and connected to a cell tower your cell carrier is <a href="https://www.nytimes.com/2018/05/10/technology/cellphone-tracking-law-enforcement.html">aware of your location</a> to within <a href="https://www.hgexperts.com/expert-witness-articles/cell-phone-triangulation-the-basics-36172">~100 meters</a>. This valuable location data is <a href="https://www.howtogeek.com/402043/can-anyone-really-track-my-phones-precise-location/">sold</a> to bounty hunters, advertising agencies, and the government.</p>
 <p>Texting is especially susceptible to <a href="https://cybersecurityventures.com/sim-swap-fraud-the-latest-battle-in-the-war-for-your-identity/">sim swapping</a>. This is where a cybercriminal gets control of your cellphone number through social engineering. What is social engineering? Cisco <a href="https://www.cisco.com/c/en/us/products/security/what-is-social-engineering.html">defines it as</a>:</p>
 <blockquote>
-<p>At its core, social engineering is not a cyber attack. Instead, social engineering is all about the psychology of persuasion: It targets the mind like your old school grifter or con man. The aim is to gain the trust of targets, so they lower their guard, and then encourage them into taking unsafe actions such as divulging personal information or clicking on web links or opening attachments that may be malicious.</p>
-</blockquote>
+<p>At its core, social engineering is not a cyber attack. Instead, social engineering is all about the psychology of persuasion: It targets the mind like your old school grifter or con man. The aim is to gain the trust of targets, so they lower their guard, and then encourage them into taking unsafe actions such as divulging personal information or clicking on web links or opening attachments that may be malicious.</p></blockquote>
 <p>Sim swapping attacks can be devastating, leading to <a href="https://threatpost.com/sharp-sim-swapping-spike-losses/178358/">drained bank accounts</a>, stolen tax returns, and identity theft. The FBI Internet Crime Complaint Center received complaints totaling losses of <a href="https://www.ic3.gov/Media/Y2022/PSA220208">$68 million</a> in 2021 due to sim swapping. These losses are due to many online account using sms for signing-in, multifactor, and/or password resets. Once an attacker has control of your phone number, that can use it receive <a href="https://privacypros.io/u2f/sim-swapping/">password reset links</a> for these accounts.</p>
 <p>Unfortunately there are no good safeguards your can put up to protect from sim swapping. This is why text-based authentication and multifactor should be completely avoided. An account secured with sms MFA is hardly any better than not having any MFA.</p>
 <p>Please, do not use text or phone based sign-in or multifactor authentication to secure any accounts of importance.</p>
@@ -116,14 +100,12 @@
 <p>Here is just <em>some</em> of the data they say they <a href="https://www.whatsapp.com/legal/privacy-policy/?lang=en">collect</a>
 from their privacy policy:</p>
 <blockquote>
-<p>..we collect information about your activity on our Services..this includes information about your activity..log files, and diagnostic, crash, website, and performance logs and reports..when you registered to use our Services; the features you use like our messaging, calling, Status, groups (including group name, group picture, group description), payments or business features; profile photo, &ldquo;about&rdquo; information; whether you are online, when you last used our Services (your &ldquo;last seen&rdquo;); and when you last updated your &ldquo;about&rdquo; information..device and connection-specific information when you install, access, or use our Services. This includes information such as hardware model, operating system information, battery level, signal strength, app version, browser information, mobile network, connection information (including phone number, mobile operator or ISP), language and time zone, IP address, device operations information, and identifiers..precise location information from your device.. [and] ..cookies..</p>
-</blockquote>
+<p>..we collect information about your activity on our Services..this includes information about your activity..log files, and diagnostic, crash, website, and performance logs and reports..when you registered to use our Services; the features you use like our messaging, calling, Status, groups (including group name, group picture, group description), payments or business features; profile photo, &ldquo;about&rdquo; information; whether you are online, when you last used our Services (your &ldquo;last seen&rdquo;); and when you last updated your &ldquo;about&rdquo; information..device and connection-specific information when you install, access, or use our Services. This includes information such as hardware model, operating system information, battery level, signal strength, app version, browser information, mobile network, connection information (including phone number, mobile operator or ISP), language and time zone, IP address, device operations information, and identifiers..precise location information from your device.. [and] ..cookies..</p></blockquote>
 <p>Facebook markets Whatsapp as a privacy messenger, but after looking at their privacy policy, it clearly is not.</p>
 <p>Further, a propublica <a href="https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users">article</a> talks about the monitoring and censorship that Whatsapp does on messages:</p>
 <blockquote>
 <p>WhatsApp has more than 1,000 contract workers.. [who] ..use special Facebook software to sift through millions of private messages, images and videos. They pass judgment on whatever flashes on their screen..</p>
-<p>The workers have access to only a subset of WhatsApp messages — those flagged by users and automatically forwarded to the company as possibly abusive. The review is one element in a broader monitoring operation in which the company also reviews material that is not encrypted, including data about the sender and their account.</p>
-</blockquote>
+<p>The workers have access to only a subset of WhatsApp messages — those flagged by users and automatically forwarded to the company as possibly abusive. The review is one element in a broader monitoring operation in which the company also reviews material that is not encrypted, including data about the sender and their account.</p></blockquote>
 <p><a href="https://www.investopedia.com/articles/personal-finance/040915/how-whatsapp-makes-money.asp">$19 billion</a> is how much Facebook payed for Whatsapp in 2014. Yet, Whatsapp is free to download and does not have ads. In order to make Whatsapp profitable, Facebook collects data about its over 2 billion users and sells ads about the data it collects.</p>
 <p>Whatsapp, marketed as a privacy focused messenger is not private in the slightest. It heavily tracks its users and is invaluable to Facebook data harvesting. Whatsapp should be avoided.</p>
 <hr>
@@ -132,8 +114,7 @@ from their privacy policy:</p>
 <p>Telegram does not use end-to-end encryption by <a href="https://telegram.org/faq#q-why-not-just-make-all-chats-secret">default</a>, therefore the Telegram servers, and anyone able to capture messages, are able to view the message contents. There is a feature called <a href="https://telegram.org/faq#secret-chats">Secret Chats</a> that enables end-to-end encryption, but only for the chat it was enabled for. The encryption used is their own custom un-audited <a href="https://core.telegram.org/mtproto">protocol</a> that has had major flaws in the past, and many cryptographers call <a href="https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-the-most-backdoor-looking/">&ldquo;weird&rdquo;</a>.</p>
 <p>Telegram collects metadata about their users according to their <a href="https://telegram.org/privacy#5-2-safety-and-security">privacy policy</a>:</p>
 <blockquote>
-<p>..we may collect metadata such as your IP address, devices and Telegram apps you&rsquo;ve used, history of username changes, etc. If collected, this metadata can be kept for 12 months maximum.</p>
-</blockquote>
+<p>..we may collect metadata such as your IP address, devices and Telegram apps you&rsquo;ve used, history of username changes, etc. If collected, this metadata can be kept for 12 months maximum.</p></blockquote>
 <p>Like Signal, a phone number is used for registering and signing in. Unlike Signal, the server code is <a href="https://telegram.org/faq#q-can-i-get-telegram-39s-server-side-code">not</a> open source.</p>
 <p>Telegram is not recommended due to end-to-end encryption not being enabled by default, its metadata collection and the un-audited custom protocol they use.</p>
 <hr>
@@ -142,34 +123,132 @@ from their privacy policy:</p>
 <p>A few things currently wrong with it are that it doesn&rsquo;t have perfect forward secrecy, message delivery is slow and unreliable, it is based in Australia where encryption/privacy laws are bad, and it is based on their own weird <a href="https://oxen.io/">cryptocurrency/blockchain</a> and <a href="https://lokinet.org/">onion network</a>.</p>
 <!-- raw HTML omitted -->
 <!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+<hr>
+<h3 id="conclusion">Conclusion</h3>
+<p>Not all messengers are created equal; Many should be avoided outright. Some more messengers to not use due to bad security and privacy are Facebook Messenger (even worse security than Whatsapp), Snapchat (bad privacy, snaps not actually deleted, lacking encryption), WeChat (Chinese have access to everything sent) and Marco Polo (lacking encryption, share personal data with third parties).</p>
+<p>Signal is different. It has been designed from the ground up taking great care to protect user security and privacy through technological means. While not perfect, it is the current best option for a private and secure messenger.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>A Smörgåsbord of Messengers</title>
+      <link>http://localhost:1313/posts/messengers/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/messengers/</guid>
+      <description>Privacy and security focused messenger showdown.</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>TL;DR: Signal is the best messenger/calling app. Every other messenger has design flaws that affect user security and privacy. Signal is widely regarded as the most secure and private messenger currently available.</p></blockquote>
+<hr>
+<h3 id="what-makes-a-good-messenger">What Makes a Good Messenger</h3>
+<p>A messenger that respects user privacy and is secure by modern standards, needs to meet a few criteria:</p>
+<ol>
+<li>
+<p>The messenger should not collect data about it&rsquo;s users beyond what is required to function.</p>
+</li>
+<li>
+<p><a href="https://www.ibm.com/topics/end-to-end-encryption">End-to-end encryption</a> needs to be used to ensure messages/calls can not be viewed by anyone other than intended recipients.</p>
+</li>
+<li>
+<p>The <a href="https://www.fortinet.com/resources/cyberglossary/what-is-cryptography">cryptography</a> used for the end-to-end encryption needs to be implemented properly using audited, reputable, and verifiable protocols.</p>
+</li>
+</ol>
+<ol start="4">
+<li>
+<p>Message/call <a href="https://hls.harvard.edu/dept/its/what-is-metadata/">metadata</a> should be protected and private.</p>
+</li>
+<li>
+<p>It needs to be secure and private by <a href="http://localhost:1313/posts/bydefault/"><em>default</em></a>.</p>
+</li>
+<li>
+<p>Governments should not be able to force those running the messenger to break the encryption or <a href="https://en.wikipedia.org/wiki/Backdoor_(computing)">backdoor</a> the software.</p>
+</li>
+<li>
+<p>It should support basic features: messaging, voice calling, video calling, and file sending.</p>
+</li>
+<li>
+<p>Being <a href="https://www.redhat.com/en/topics/open-source/what-is-open-source">open source</a> is an additional plus.</p>
+</li>
+</ol>
+<p>Many messengers meet some of these criteria, but not all.</p>
+<hr>
+<h3 id="signal-messenger">Signal Messenger</h3>
+<p><a href="https://signal.org">Signal</a> is a cross-platform end-to-end encrypted messaging/calling app. It can be installed on phones and computers and supports instant messaging, voice calls, video calls, sending files, taking/sending pictures/videos snapchat style, and much <a href="https://support.signal.org/hc/en-us/sections/360001602792-Signal-Messenger-Features">more</a>.</p>
+<p>Signal <a href="https://signal.org/legal/#privacy-policy">does not track its users</a>. The only info Signal knows about you is the <a href="https://yewtu.be/watch?v=Nj3YFprqAr8&amp;t=894s"><em>phone number</em></a> used to register, the account <em>registration date</em>, and the <em>last time you used Signal</em>.</p>
+<p>Signal is open and transparent about what government requests <a href="https://signal.org/bigbrother/">they receive</a>. It is open source and all of its code is freely viewable <a href="https://github.com/signalapp">here</a>. Signal is ran by the 501(c)(3) non-profit <a href="https://signalfoundation.org/">Signal Foundation</a>, and is funded by <a href="https://www.signal.org/donate/">donations and grants</a>. It has been independently <a href="https://eprint.iacr.org/2016/1013.pdf">audited</a> by third party companies to check for vulnerabilities and to verify trustworthiness.</p>
+<h4 id="some-of-the-features-signal-has">Some of the features Signal has:</h4>
+<ul>
+<li>
+<p><a href="https://www.ibm.com/topics/end-to-end-encryption">End-to-end encryption</a>: Ensures message/call content can not be viewed by any unintended parties, including the Signal Foundation itself. It uses the audited and reputable <a href="https://engineering.mindlinksoft.com/end-to-end-encryption-with-the-signal-protocol/">Signal Protocol</a> developed by the Signal Foundation for end-to-end encryption.</p>
+</li>
+<li>
+<p><a href="https://www.signal.org/blog/asynchronous-security/">Perfect Forward Secrecy</a>: This ensures that if the <a href="https://medium.com/codeclan/what-are-encryption-keys-and-how-do-they-work-cc48c3053bd6">encryption key</a> of one message is compromised, other messages can not be decrypted and viewed with that same key.</p>
+</li>
+<li>
+<p><a href="https://signal.org/blog/sealed-sender/">Sealed Sender</a>: This is used to conceal <a href="https://hls.harvard.edu/dept/its/what-is-metadata/">metadata</a>. Signal protects metadata better than all other messengers.</p>
+</li>
+<li>
+<p><a href="https://support.signal.org/hc/en-us/articles/360007060632">Safety Numbers</a>: Used to verify you are communicating with who you think you are.</p>
+</li>
+<li>
+<p><a href="https://signal.org/blog/signal-private-group-system/">Private Groups</a>: A private group chat/calling system. The Signal Foundation has no record of who is in a group chat/call, the name of the group, or the group avatar. This is in stark contrast to other messengers where all this is viewable by the service.</p>
+</li>
+</ul>
+<h4 id="signal-and-phone-numbers">Signal and Phone Numbers</h4>
+<p>Signal requires a phone number for registration and use. This raises a privacy concern for some as anyone you message in Signal can see your phone number. This can be partially solved by using a <a href="https://www.howtogeek.com/712588/what-is-a-burner-phone-and-when-should-you-use-one/">burner phone</a> or <a href="https://www.voip.com/">VoIP</a> number when registering with Signal. Signal has said they are working on adding usernames that may replace phone numbers.</p>
+<p>Enable registration lock and <a href="https://support.signal.org/hc/en-us/articles/360007059792-Registration-Lock">set a pin</a> in Signal. This will require a pin to be entered before the same number can be registered with Signal again, helping to prevent your Signal account from getting stolen.</p>
+<p>Due to the secure way Signal has been designed, messages are not backed up or stored on the Signal servers. This means when installing Signal on a different device, you will need to <a href="https://support.signal.org/hc/en-us/articles/360007059752-Backup-and-Restore-Messages">transfer</a> messages to the new devices.</p>
+<hr>
+<h3 id="textingsms">Texting/SMS</h3>
+<p><a href="https://en.wikipedia.org/wiki/SMS">SMS</a>/<a href="https://en.wikipedia.org/wiki/Multimedia_Messaging_Service">MMS</a> (commonly referred to as &ldquo;texting&rdquo;), and phone calling is the most common form of communication, but it is neither <a href="https://www.howtogeek.com/709373/why-sms-text-messages-arent-private-or-secure/">secure</a> nor <a href="https://www.usatoday.com/story/tech/columnist/2016/04/16/texting-texts-security-hacking/83118320/">private</a>.</p>
+<p>Your <a href="https://en.wikipedia.org/wiki/List_of_United_States_wireless_communications_service_providers">cell carrier</a> can read your messages/phone calls due to the lack of <a href="https://www.ibm.com/topics/end-to-end-encryption">end-to-end encryption</a>. Some carriers encrypt part of the journey the message/call data takes, but only between the <a href="https://www.rokacom.com/are-text-messages-encrypted%5D">phone and cell tower</a>. They then decrypt the data at the cell tower and are able to view its content. They <a href="https://www.nbcnews.com/technolog/how-long-do-wireless-carriers-keep-your-data-120367">store</a> this decrypted message/phone data for varying lengths of time, up to <a href="https://news.law.fordham.edu/jcfl/2016/06/02/cell-phone-forensics-powerful-tools-wielded-by-federal-investigators/">seven years</a>.</p>
+<p>Every second your phone is online and connected to a cell tower your cell carrier is <a href="https://www.nytimes.com/2018/05/10/technology/cellphone-tracking-law-enforcement.html">aware of your location</a> to within <a href="https://www.hgexperts.com/expert-witness-articles/cell-phone-triangulation-the-basics-36172">~100 meters</a>. This valuable location data is <a href="https://www.howtogeek.com/402043/can-anyone-really-track-my-phones-precise-location/">sold</a> to bounty hunters, advertising agencies, and the government.</p>
+<p>Texting is especially susceptible to <a href="https://cybersecurityventures.com/sim-swap-fraud-the-latest-battle-in-the-war-for-your-identity/">sim swapping</a>. This is where a cybercriminal gets control of your cellphone number through social engineering. What is social engineering? Cisco <a href="https://www.cisco.com/c/en/us/products/security/what-is-social-engineering.html">defines it as</a>:</p>
+<blockquote>
+<p>At its core, social engineering is not a cyber attack. Instead, social engineering is all about the psychology of persuasion: It targets the mind like your old school grifter or con man. The aim is to gain the trust of targets, so they lower their guard, and then encourage them into taking unsafe actions such as divulging personal information or clicking on web links or opening attachments that may be malicious.</p></blockquote>
+<p>Sim swapping attacks can be devastating, leading to <a href="https://threatpost.com/sharp-sim-swapping-spike-losses/178358/">drained bank accounts</a>, stolen tax returns, and identity theft. The FBI Internet Crime Complaint Center received complaints totaling losses of <a href="https://www.ic3.gov/Media/Y2022/PSA220208">$68 million</a> in 2021 due to sim swapping. These losses are due to many online account using sms for signing-in, multifactor, and/or password resets. Once an attacker has control of your phone number, that can use it receive <a href="https://privacypros.io/u2f/sim-swapping/">password reset links</a> for these accounts.</p>
+<p>Unfortunately there are no good safeguards your can put up to protect from sim swapping. This is why text-based authentication and multifactor should be completely avoided. An account secured with sms MFA is hardly any better than not having any MFA.</p>
+<p>Please, do not use text or phone based sign-in or multifactor authentication to secure any accounts of importance.</p>
+<hr>
+<h3 id="imessage">iMessage</h3>
+<p><a href="https://support.apple.com/messages">iMessage</a> is an instant messenger owned by <a href="https://www.apple.com/">Apple</a> that supports instant messaging, voice/video calling, and file sending.</p>
+<p>The first knock against it is that it is not cross platform, it is only available on Apple devices. It is also closed source, does not have <a href="https://plzh4x.me/2018/04/07/cryptanalysis-of-the-imessage-protocol/">perfect forward secrecy</a>, does not <a href="https://appleinsider.com/articles/16/09/29/apple-acknowledges-tracking-imessage-metadata-and-sharing-it-with-law-enforcement">protect metadata</a> and shares the metadata they collect with law-enforcement.</p>
+<p>While iMessage does have end-to-end encryption, it has been implemented <a href="https://plzh4x.me/2018/04/07/cryptanalysis-of-the-imessage-protocol/">poorly</a> and is not secure. To make matters worse, if iMessage is being backed up with iCloud (which it is by default), Apple is able to see the backed-up messages. This is because iCloud backups are not <a href="https://www.howtogeek.com/710509/apples-imessage-is-secure...-unless-you-have-icloud-enabled/">end-to-end encrypted</a>. The reason iCloud backup does not have end-to-end encryption? Because the <a href="https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT">fbi complained</a> when Apple was going to enable it. :unamused:</p>
+<p>Apple has tried backdooring iMessage by adding a client side <a href="https://www.schneier.com/blog/archives/2021/08/apple-adds-a-backdoor-to-imesssage-and-icloud-storage.html">scanning service</a> to iMessage that would scan messages for &ldquo;bad&rdquo; material and report it. Although not currently implemented, there has been talk again about adding it.</p>
+<p>While iMessage is convenient on apple devices, it should not be used due to its many downsides, poor encryption and lack of cross-platform support.</p>
+<hr>
+<h3 id="whatsapp">Whatsapp</h3>
+<p><a href="https://www.whatsapp.com/">Whatsapp</a> is a instant messenger owned by the data harvester/ad tech company Meta (Facebook&rsquo;s new parent company). It supports instant messaging, voice/video calling, and file sending.</p>
+<p>Although Whatsapp has end-to-end encryption and is not able to view message contents, metadata is <a href="https://www.getsession.org/blog/whatsapp-privacy-policy">tracked</a> aggressively. Their <a href="https://www.whatsapp.com/legal/privacy-policy/?lang=en">privacy policy</a> shows that Whatsapp has been incorporated into the massive data harvesting operation of their parent company, Facebook.</p>
+<p>Here is just <em>some</em> of the data they say they <a href="https://www.whatsapp.com/legal/privacy-policy/?lang=en">collect</a>
+from their privacy policy:</p>
+<blockquote>
+<p>..we collect information about your activity on our Services..this includes information about your activity..log files, and diagnostic, crash, website, and performance logs and reports..when you registered to use our Services; the features you use like our messaging, calling, Status, groups (including group name, group picture, group description), payments or business features; profile photo, &ldquo;about&rdquo; information; whether you are online, when you last used our Services (your &ldquo;last seen&rdquo;); and when you last updated your &ldquo;about&rdquo; information..device and connection-specific information when you install, access, or use our Services. This includes information such as hardware model, operating system information, battery level, signal strength, app version, browser information, mobile network, connection information (including phone number, mobile operator or ISP), language and time zone, IP address, device operations information, and identifiers..precise location information from your device.. [and] ..cookies..</p></blockquote>
+<p>Facebook markets Whatsapp as a privacy messenger, but after looking at their privacy policy, it clearly is not.</p>
+<p>Further, a propublica <a href="https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users">article</a> talks about the monitoring and censorship that Whatsapp does on messages:</p>
+<blockquote>
+<p>WhatsApp has more than 1,000 contract workers.. [who] ..use special Facebook software to sift through millions of private messages, images and videos. They pass judgment on whatever flashes on their screen..</p>
+<p>The workers have access to only a subset of WhatsApp messages — those flagged by users and automatically forwarded to the company as possibly abusive. The review is one element in a broader monitoring operation in which the company also reviews material that is not encrypted, including data about the sender and their account.</p></blockquote>
+<p><a href="https://www.investopedia.com/articles/personal-finance/040915/how-whatsapp-makes-money.asp">$19 billion</a> is how much Facebook payed for Whatsapp in 2014. Yet, Whatsapp is free to download and does not have ads. In order to make Whatsapp profitable, Facebook collects data about its over 2 billion users and sells ads about the data it collects.</p>
+<p>Whatsapp, marketed as a privacy focused messenger is not private in the slightest. It heavily tracks its users and is invaluable to Facebook data harvesting. Whatsapp should be avoided.</p>
+<hr>
+<h3 id="telegram">Telegram</h3>
+<p><a href="https://telegram.org/">Telegram</a> is a cross-platform instant messenger based in <a href="https://telegram.org/faq#q-where-is-telegram-based">Dubai</a>, United Arab Emirates. It supports instant messaging, voice/video calling, and file sending.</p>
+<p>Telegram does not use end-to-end encryption by <a href="https://telegram.org/faq#q-why-not-just-make-all-chats-secret">default</a>, therefore the Telegram servers, and anyone able to capture messages, are able to view the message contents. There is a feature called <a href="https://telegram.org/faq#secret-chats">Secret Chats</a> that enables end-to-end encryption, but only for the chat it was enabled for. The encryption used is their own custom un-audited <a href="https://core.telegram.org/mtproto">protocol</a> that has had major flaws in the past, and many cryptographers call <a href="https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-the-most-backdoor-looking/">&ldquo;weird&rdquo;</a>.</p>
+<p>Telegram collects metadata about their users according to their <a href="https://telegram.org/privacy#5-2-safety-and-security">privacy policy</a>:</p>
+<blockquote>
+<p>..we may collect metadata such as your IP address, devices and Telegram apps you&rsquo;ve used, history of username changes, etc. If collected, this metadata can be kept for 12 months maximum.</p></blockquote>
+<p>Like Signal, a phone number is used for registering and signing in. Unlike Signal, the server code is <a href="https://telegram.org/faq#q-can-i-get-telegram-39s-server-side-code">not</a> open source.</p>
+<p>Telegram is not recommended due to end-to-end encryption not being enabled by default, its metadata collection and the un-audited custom protocol they use.</p>
+<hr>
+<h3 id="session">Session</h3>
+<p><a href="https://getsession.org/">Session</a> is an up and coming messenger that has many promising features, but is not yet ready for general use.</p>
+<p>A few things currently wrong with it are that it doesn&rsquo;t have perfect forward secrecy, message delivery is slow and unreliable, it is based in Australia where encryption/privacy laws are bad, and it is based on their own weird <a href="https://oxen.io/">cryptocurrency/blockchain</a> and <a href="https://lokinet.org/">onion network</a>.</p>
 <!-- raw HTML omitted -->
 <!-- raw HTML omitted -->
 <hr>
 <h3 id="conclusion">Conclusion</h3>
 <p>Not all messengers are created equal; Many should be avoided outright. Some more messengers to not use due to bad security and privacy are Facebook Messenger (even worse security than Whatsapp), Snapchat (bad privacy, snaps not actually deleted, lacking encryption), WeChat (Chinese have access to everything sent) and Marco Polo (lacking encryption, share personal data with third parties).</p>
 <p>Signal is different. It has been designed from the ground up taking great care to protect user security and privacy through technological means. While not perfect, it is the current best option for a private and secure messenger.</p>
-<!-- raw HTML omitted -->
-]]></content>
-      </entry>
-
-</feed>
-
-
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

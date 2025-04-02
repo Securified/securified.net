@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Smart Tv on SECURIFIED</title>
-  <link rel="alternate" href="https://securified.net/tags/smart-tv/" />
-  <link rel="self" href="https://securified.net/tags/smart-tv/index.xml" />
-  <subtitle>Recent content in Smart Tv on SECURIFIED</subtitle>
-  <id>https://securified.net/tags/smart-tv/</id>
-  <generator uri="http://gohugo.io" version="0.126.2">Hugo</generator>
-  <language>en-us</language>
-  <updated>2021-11-28T00:00:00Z</updated>
-  <author>
-    
-    
-  </author>
-  
-      <entry>
-        <title>IoT: The &#39;S&#39; is for Security</title>
-        <link rel="alternate" href="https://securified.net/iot/" />
-        <id>https://securified.net/iot/</id>
-        <published>2021-11-28T00:00:00Z</published>
-        <updated>2021-11-28T00:00:00Z</updated>
-        <summary type="html">An analysis on the lack of IoT Security.</summary>
-          <content type="html"><![CDATA[<h3 id="iot-insecurity">IoT Insecurity</h3>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Smart Tv on SECURIFIED</title>
+    <link>http://localhost:1313/tags/smart-tv/</link>
+    <description>Recent content in Smart Tv on SECURIFIED</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/smart-tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IoT: The &#39;S&#39; is for Security</title>
+      <link>http://localhost:1313/blog/iot/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/iot/</guid>
+      <description>An analysis on the lack of IoT Security.</description>
+      <content:encoded><![CDATA[<h3 id="iot-insecurity">IoT Insecurity</h3>
 <p>The joke about IoT is that the &lsquo;S&rsquo; is for Security. There is no &lsquo;S&rsquo; in IoT, hence there is no security.</p>
 <p>The <a href="https://www.oracle.com/internet-of-things/what-is-iot/">Internet of things (IoT)</a>, consists of all the physical devices and appliances that are internet connected (Alexa devices, smart lights, cars, thermostats, industrial machinery, cameras, doorbells, smart fridges and garage doors to name a few).</p>
 <p>Many of these devices do not receive updates, let alone security updates, once they leave the factory. This means that when a vulnerability is discovered for one of these devices, it will not get fixed. A hacked smart fridge can lead to your whole home network becoming compromised, meaning internet activity can be captured and manipulated. That cheap internet security camera might not seem like such a good deal when it turns out it doesn&rsquo;t get updates and has been hacked into and is now being used to spy on you, something that actually happens.</p>
@@ -36,9 +30,31 @@
 <h3 id="conclusion">Conclusion</h3>
 <p>There is no controlling these devices once they are in your home, unless you put them onto a separate network and block some of the connections they make, which is way over the head of the average consumer, and requires regular maintenance.</p>
 <p>Set good passwords for any IoT devices you own and regularly check for updates. Before letting an IoT device into your home, consider the privacy and security violations it brings and whether that is worth the tradeoff for the convenience they bring.</p>
-]]></content>
-      </entry>
-
-</feed>
-
-
+]]></content:encoded>
+    </item>
+    <item>
+      <title>IoT: The &#39;S&#39; is for Security</title>
+      <link>http://localhost:1313/posts/iot/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/iot/</guid>
+      <description>An analysis on the lack of IoT Security.</description>
+      <content:encoded><![CDATA[<h3 id="iot-insecurity">IoT Insecurity</h3>
+<p>The joke about IoT is that the &lsquo;S&rsquo; is for Security. There is no &lsquo;S&rsquo; in IoT, hence there is no security.</p>
+<p>The <a href="https://www.oracle.com/internet-of-things/what-is-iot/">Internet of things (IoT)</a>, consists of all the physical devices and appliances that are internet connected (Alexa devices, smart lights, cars, thermostats, industrial machinery, cameras, doorbells, smart fridges and garage doors to name a few).</p>
+<p>Many of these devices do not receive updates, let alone security updates, once they leave the factory. This means that when a vulnerability is discovered for one of these devices, it will not get fixed. A hacked smart fridge can lead to your whole home network becoming compromised, meaning internet activity can be captured and manipulated. That cheap internet security camera might not seem like such a good deal when it turns out it doesn&rsquo;t get updates and has been hacked into and is now being used to spy on you, something that actually happens.</p>
+<p>There are documented examples of devices sending personal information and passwords to their manufacturers in China, which is shady at best. This should raise concerns about what devices are accepted into our homes and where they are manufactured.</p>
+<hr>
+<h3 id="smart-assistants">Smart Assistants</h3>
+<p>Virtual assistants such as Alexa, Siri and Google Assistant might seem futuristic and handy, but are a privacy nightmare. There are countless horror stories associated with these devices. One person had their Alexa activate itself and say &ldquo;Every time I close my eyes, all I see is people dying.&rdquo;</p>
+<p>The companies behind these devices have admitted that snippets of what you say are listened to by humans so they can &ldquo;improve the product&rdquo;. There are cases where recordings from theses devices have been used in court proceedings. Needless to say, these devices are always listening. This is by design. In order to activate and follow a command (like &ldquo;Siri, what is this song?&rdquo;) they have to be in a constant state of &ldquo;listening&rdquo; so that they can detect the key word (eg: &ldquo;Alexa&rdquo;, &ldquo;Siri&rdquo;) and then follow through. This design can, and has, lead to accidental triggers as there are numerous words/phrases that have similar sound patterns to the trigger words.</p>
+<hr>
+<h3 id="smart-tvs">Smart TVs</h3>
+<p>Another area of concern is modern Smart TVs/Rokus/Fire TVs. These usually have Hulu, Amazon, Netflix, etc. built into them. A large reason TVs have come down in price is because manufacturers are collecting data about their users and are selling it. The collected data can be used to build accurate profiles on people and it is speculated that TV manufactures make more money from selling data than from selling the actual TV. Some TVs/remotes have microphone in them to control the system, and others even have webcams embedded in them. Both of these bring major security and privacy issues and can be used to track the habits of people using the device. Like other smart devices, many smart TVs largely go without getting updates to fix security issues.</p>
+<hr>
+<h3 id="conclusion">Conclusion</h3>
+<p>There is no controlling these devices once they are in your home, unless you put them onto a separate network and block some of the connections they make, which is way over the head of the average consumer, and requires regular maintenance.</p>
+<p>Set good passwords for any IoT devices you own and regularly check for updates. Before letting an IoT device into your home, consider the privacy and security violations it brings and whether that is worth the tradeoff for the convenience they bring.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

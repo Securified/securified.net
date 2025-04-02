@@ -26,9 +26,6 @@
       {{- partial "edit_post.html" . -}}
       {{- partial "post_canonical.html" . -}}
     </div>
-    <div class="post-meta">
-      {{- partial "post_lastmod.html" . -}}
-    </div>
     {{- end }}
   </header>
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}

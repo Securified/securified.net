@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Edge on SECURIFIED</title>
-  <link rel="alternate" href="https://securified.net/tags/edge/" />
-  <link rel="self" href="https://securified.net/tags/edge/index.xml" />
-  <subtitle>Recent content in Edge on SECURIFIED</subtitle>
-  <id>https://securified.net/tags/edge/</id>
-  <generator uri="http://gohugo.io" version="0.126.2">Hugo</generator>
-  <language>en-us</language>
-  <updated>2021-11-28T00:00:00Z</updated>
-  <author>
-    
-    
-  </author>
-  
-      <entry>
-        <title>Web Browsers and Search Engines</title>
-        <link rel="alternate" href="https://securified.net/browsers/" />
-        <id>https://securified.net/browsers/</id>
-        <published>2021-11-28T00:00:00Z</published>
-        <updated>2021-11-28T00:00:00Z</updated>
-        <summary type="html">Browser and search engine recommendations.</summary>
-          <content type="html"><![CDATA[<h3 id="web-browsers">Web Browsers</h3>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Edge on SECURIFIED</title>
+    <link>http://localhost:1313/tags/edge/</link>
+    <description>Recent content in Edge on SECURIFIED</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/edge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Browsers and Search Engines</title>
+      <link>http://localhost:1313/blog/browsers/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/browsers/</guid>
+      <description>Browser and search engine recommendations.</description>
+      <content:encoded><![CDATA[<h3 id="web-browsers">Web Browsers</h3>
 <p>Web browsers are the gateway to the internet and are what every website sees and interacts with. It is important to choose one that has good privacy (does not track everything) and has good security features. But not all web browsers are created equal when it comes to this. Popular browsers like Chrome, Edge, Yandex, Safari and Firefox are not recommended for one reason or another. Chrome and Edge are owned by Google and Microsoft respectively and have massive amounts of user tracking and data collection built-in. Safari has some Apple tracking built in and does not have some needed security features. And its only available for Apple devices. Avoid Firefox or anything based on it. It is very lacking in security features, and collects data about their users, even though they claim they don&rsquo;t. Web browsers should be kept up to date to fix major vulnerabilities.</p>
 <h3 id="brave">Brave</h3>
 <p>The best cross-platform web browser right now is <!-- raw HTML omitted -->Brave<!-- raw HTML omitted -->. Brave has good security features and add-blocking built in. It can be installed on iOS, Android, MacOS, Windows, ChromeOS and more. Brave is built on top of Chromium, which is also what Chrome is built on. But Brave has removed any Google data collecting from Chromium.</p>
@@ -31,9 +25,26 @@
 <p>There are numerous cases of the creator(s) of extensions selling them off once the extension has grown in popularity. They usually aren&rsquo;t sold to reputable companies, but to ad-selling companies who use the extension for tracking purposes.</p>
 <p>Extensions can also be malicious. The creators sole purpose of creating it may be to <!-- raw HTML omitted -->spread malware<!-- raw HTML omitted --> to your device through it.</p>
 <p>While many browser extensions are useful, a lot of them are malicious. Extensions should be kept to an absolute minimum, and only download from trusted places (like the Chrome web store if using Brave) and do some research first to determine if the extensions is trustworthy, and keep them updated.</p>
-]]></content>
-      </entry>
-
-</feed>
-
-
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Web Browsers and Search Engines</title>
+      <link>http://localhost:1313/posts/browsers/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/browsers/</guid>
+      <description>Browser and search engine recommendations.</description>
+      <content:encoded><![CDATA[<h3 id="web-browsers">Web Browsers</h3>
+<p>Web browsers are the gateway to the internet and are what every website sees and interacts with. It is important to choose one that has good privacy (does not track everything) and has good security features. But not all web browsers are created equal when it comes to this. Popular browsers like Chrome, Edge, Yandex, Safari and Firefox are not recommended for one reason or another. Chrome and Edge are owned by Google and Microsoft respectively and have massive amounts of user tracking and data collection built-in. Safari has some Apple tracking built in and does not have some needed security features. And its only available for Apple devices. Avoid Firefox or anything based on it. It is very lacking in security features, and collects data about their users, even though they claim they don&rsquo;t. Web browsers should be kept up to date to fix major vulnerabilities.</p>
+<h3 id="brave">Brave</h3>
+<p>The best cross-platform web browser right now is <!-- raw HTML omitted -->Brave<!-- raw HTML omitted -->. Brave has good security features and add-blocking built in. It can be installed on iOS, Android, MacOS, Windows, ChromeOS and more. Brave is built on top of Chromium, which is also what Chrome is built on. But Brave has removed any Google data collecting from Chromium.</p>
+<h3 id="search-engines">Search Engines.</h3>
+<p>Likewise, choice of a search engine is also important. Google, the most widely used search engine, tracks everything searched and uses it for advertising and other purposes. It also has a monopoly on search engines as it has a 92% marketshare. This is not limited to just Google as Bing, Yandex, Yahoo etc. all do it too. <!-- raw HTML omitted -->Duckduckgo<!-- raw HTML omitted --> is the best in terms of being privacy respecting and being user friendly. Duckduckgo does not collect or track what is searched or data about its users. Another good option is <a href="https://search.brave.com/default">Brave Search</a>. It is ran by the same people as the Brave browser and has all the same good security and privacy.</p>
+<h3 id="browser-extensions">Browser Extensions</h3>
+<p>Browser extensions (also called add-ons) are the extra apps that can be added to web browsers such as Honey, Grammarly, Google Translate, Adobe Acrobat etc. To function, they usually require permissions like being able to view and modify every website visited. With this access it can record every site visited, everything typed into the web browser (passwords, credit cards), it can display ads, and even redirect links to different websites. Not every extension is doing this, but it is difficult to verify.</p>
+<p>There are numerous cases of the creator(s) of extensions selling them off once the extension has grown in popularity. They usually aren&rsquo;t sold to reputable companies, but to ad-selling companies who use the extension for tracking purposes.</p>
+<p>Extensions can also be malicious. The creators sole purpose of creating it may be to <!-- raw HTML omitted -->spread malware<!-- raw HTML omitted --> to your device through it.</p>
+<p>While many browser extensions are useful, a lot of them are malicious. Extensions should be kept to an absolute minimum, and only download from trusted places (like the Chrome web store if using Brave) and do some research first to determine if the extensions is trustworthy, and keep them updated.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Bank on SECURIFIED</title>
-  <link rel="alternate" href="https://securified.net/tags/bank/" />
-  <link rel="self" href="https://securified.net/tags/bank/index.xml" />
-  <subtitle>Recent content in Bank on SECURIFIED</subtitle>
-  <id>https://securified.net/tags/bank/</id>
-  <generator uri="http://gohugo.io" version="0.126.2">Hugo</generator>
-  <language>en-us</language>
-  <updated>2022-05-02T00:00:00Z</updated>
-  <author>
-    
-    
-  </author>
-  
-      <entry>
-        <title>Defending your Finances in the Digital Realm</title>
-        <link rel="alternate" href="https://securified.net/finance/" />
-        <id>https://securified.net/finance/</id>
-        <published>2022-05-02T00:00:00Z</published>
-        <updated>2022-05-02T00:00:00Z</updated>
-        <summary type="html">A brief guide on digital payments.</summary>
-          <content type="html"><![CDATA[<h3 id="credit-card-theft">Credit Card Theft</h3>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bank on SECURIFIED</title>
+    <link>http://localhost:1313/tags/bank/</link>
+    <description>Recent content in Bank on SECURIFIED</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bank/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Defending your Finances in the Digital Realm</title>
+      <link>http://localhost:1313/blog/finance/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/finance/</guid>
+      <description>A brief guide on digital payments.</description>
+      <content:encoded><![CDATA[<h3 id="credit-card-theft">Credit Card Theft</h3>
 <p>Stolen credit/debit card numbers are sold for mere dollars on the black market. This is because they are so ubiquitous as they are lost in data breaches all the time.</p>
 <h3 id="privacycom">Privacy.com</h3>
 <p><a href="https://privacy.com">Privacy.com</a> allows the creation of virtual visa/mastercard gift cards that function like a debit card. This service is free as Privacy.com takes a portion of the fee that is payed to the card company (Visa or Mastercard) by the merchant. There is also a paid option with added benefits.</p>
@@ -28,11 +22,23 @@
 <p>Privacy.com is a privacy and security focused company with a great track record and a good privacy policy that limits sharing of personal data.</p>
 <h3 id="bank-accounts">Bank Accounts</h3>
 <p>A similar topic is securing your bank account access. It should have a completely unique password, different from any other website. Enable multifactor authentication if it is supported. For security questions (eg: what is your mothers maiden name?), do not enter the true information as this can be trivially guessed, found online, or learned through social engineering. Instead, use random answers (eg: What is your home town? &ldquo;New York&rdquo;) and save it in a password manager. Security questions are easily guessed or figured out by attackers, so they should not be the &ldquo;true&rdquo; answer. While this may seem like an odd thing to do, it is increasingly recommended to protect accounts.</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-]]></content>
-      </entry>
-
-</feed>
-
-
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Defending your Finances in the Digital Realm</title>
+      <link>http://localhost:1313/posts/finance/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/finance/</guid>
+      <description>A brief guide on digital payments.</description>
+      <content:encoded><![CDATA[<h3 id="credit-card-theft">Credit Card Theft</h3>
+<p>Stolen credit/debit card numbers are sold for mere dollars on the black market. This is because they are so ubiquitous as they are lost in data breaches all the time.</p>
+<h3 id="privacycom">Privacy.com</h3>
+<p><a href="https://privacy.com">Privacy.com</a> allows the creation of virtual visa/mastercard gift cards that function like a debit card. This service is free as Privacy.com takes a portion of the fee that is payed to the card company (Visa or Mastercard) by the merchant. There is also a paid option with added benefits.</p>
+<p>For one-off purchases, there are one-time use cards that close after they have been used. Meaning that even if the number is stolen it can&rsquo;t be used again. There are also multi-use cards with finely customizable spending and transactions limits. Also, each of these cards can only be used for one merchant. So if a card is used at merchant A, it can&rsquo;t then be used for merchant B, as it is already locked to merchant A. This helps minimize the damage a stolen card number may cause, as it would have to be used at the same place. Cards can also be closed or paused at any time.</p>
+<p>Privacy.com is a privacy and security focused company with a great track record and a good privacy policy that limits sharing of personal data.</p>
+<h3 id="bank-accounts">Bank Accounts</h3>
+<p>A similar topic is securing your bank account access. It should have a completely unique password, different from any other website. Enable multifactor authentication if it is supported. For security questions (eg: what is your mothers maiden name?), do not enter the true information as this can be trivially guessed, found online, or learned through social engineering. Instead, use random answers (eg: What is your home town? &ldquo;New York&rdquo;) and save it in a password manager. Security questions are easily guessed or figured out by attackers, so they should not be the &ldquo;true&rdquo; answer. While this may seem like an odd thing to do, it is increasingly recommended to protect accounts.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

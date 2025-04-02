@@ -42,39 +42,42 @@
 {{- if ge $limit 1 }}
 {{- $pages = $pages | first $limit }}
 {{- end }}
-
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ site.Title }}{{ end }}</title>
-  <link rel="alternate" href="{{ (.OutputFormats.Get "HTML").Permalink }}" />
-  <link rel="self" href="{{ (.OutputFormats.Get "RSS").Permalink }}" />
-  <subtitle>Recent content {{ if ne .Title site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}on {{ site.Title }}</subtitle>
-  <id>{{ .Permalink }}</id>
-  <generator uri="http://gohugo.io" version="{{ hugo.Version }}">Hugo</generator>
-  <language>{{ site.Language.LanguageCode }}</language>
-  <updated>{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}</updated>
-  <author>
-    {{ with $authorName }}<name>{{ . }}</name>{{ end }}
-    {{ with $authorEmail }}<name>{{ . }}</name>{{ end }}
-  </author>
-  {{ with site.Copyright }}<rights>{{ . }}</rights>{{ end }}
-
-  {{- range $pages }}
-    {{- if and (ne .Layout `search`) (ne .Layout `archives`) }}
-      <entry>
-        <title>{{ .Title }}</title>
-        <link rel="alternate" href="{{ .Permalink }}" />
-        <id>{{ .Permalink }}</id>
-        <published>{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}</published>
-        <updated>{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}</updated>
-        <summary type="html">{{ with .Description | html }}{{ . }}{{ else }}{{ .Summary | html }}{{ end -}}</summary>
-        {{- if site.Params.ShowFullTextinRSS }}
-          <content type="html">{{ (printf "<![CDATA[%s]]>" .Content) | safeHTML }}</content>
-        {{- end }}
-      </entry>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ site.Title }}{{ end }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>Recent content {{ if ne .Title site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}on {{ site.Title }}</description>
+    {{- with site.Params.images }}
+    <image>
+      <title>{{ site.Title }}</title>
+      <url>{{ index . 0 | absURL }}</url>
+      <link>{{ index . 0 | absURL }}</link>
+    </image>
     {{- end }}
-  {{- end }}
-
-</feed>
-
-
+    <generator>Hugo -- {{ hugo.Version }}</generator>
+    <language>{{ site.Language.LanguageCode }}</language>{{ with $authorEmail }}
+    <managingEditor>{{.}}{{ with $authorName }} ({{ . }}){{ end }}</managingEditor>{{ end }}{{ with $authorEmail }}
+    <webMaster>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</webMaster>{{ end }}{{ with site.Copyright }}
+    <copyright>{{ . | markdownify | plainify | strings.TrimPrefix "© " }}</copyright>{{ end }}{{ if not .Date.IsZero }}
+    <lastBuildDate>{{ (index $pages.ByLastmod.Reverse 0).Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+    {{- with .OutputFormats.Get "RSS" }}
+    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{- end }}
+    {{- range $pages }}
+    {{- if and (ne .Layout `search`) (ne .Layout `archives`) }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
+      <guid>{{ .Permalink }}</guid>
+      <description>{{ with .Description | html }}{{ . }}{{ else }}{{ .Summary | html }}{{ end -}}</description>
+      {{- if and site.Params.ShowFullTextinRSS .Content }}
+      <content:encoded>{{ (printf "<![CDATA[%s]]>" .Content) | safeHTML }}</content:encoded>
+      {{- end }}
+    </item>
+    {{- end }}
+    {{- end }}
+  </channel>
+</rss>

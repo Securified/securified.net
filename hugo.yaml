@@ -14,7 +14,7 @@ enableGitInfo: false
 
 
 permalinks:
-  posts: "/:filename"
+  Latest Articles: "/:filename"
 
 minify:
   disableXML: true
@@ -23,16 +23,16 @@ minify:
 params:
   env: production
   title: "SECURIFIED"
-  description: "Personal Cybersecurity and Cyberprivacy consulting."
+  description: "Cybersecurity and Cyberprivacy consulting."
   keywords: [Blog, Consulting, Cybersecurity, Privacy, Cyberprivacy, Security, technology]
   # author: SECURIFIED
   DateFormat: "January 2, 2006"
-  defaultTheme: auto
-  disableThemeToggle: false
+  defaultTheme: dark
+  disableThemeToggle: true
   ShowReadingTime: true
   ShowShareButtons: false
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowFullTextinRSS: true
   disableSpecial1stPost: false
@@ -43,9 +43,9 @@ params:
   showtoc: true
   tocopen: false
 
-  footer:
-    text: "hi"
-    hideCopyright: true
+  # footer:
+  #   text: "hi"
+  #   hideCopyright: true
   
   assets:
     disableHLJS: true
@@ -65,14 +65,14 @@ params:
   profileMode:
     enabled: true
     title: "SECURIFIED"
-    subtitle: Personal Cybersecurity and Cyberprivacy consulting. 
+    subtitle: Cybersecurity and Cyberprivacy consulting. 
     imageUrl: shield-checkmark-line-icon-4.png 
-    Content: Personal Cybersecurity and Cyberprivacy consulting.
+    Content: Cybersecurity and Cyberprivacy consulting.
     buttons:
           - name: Services
             url: "/services"
-          - name: Posts
-            url: "/posts"
+          - name: Blog
+            url: "/blog"
           - name: Contact
             url: "/contact"
 
@@ -130,9 +130,9 @@ menu:
     #   name: about
     #   url: /about/
     #   weight: 10
-    - identifier: posts
-      name: Posts
-      url: /posts/
+    - identifier: blog
+      name: Blog
+      url: /blog/
       weight: 20
     - identifier: Tools
       name: Tools

@@ -31,7 +31,7 @@
 }
 
 .post-content :not(table) ::-webkit-scrollbar-thumb {
-    border: 2px solid var(--hljs-bg);
+    border: 2px solid var(--code-block-bg);
     background: rgb(113, 113, 117);
 }
 
@@ -60,21 +60,4 @@
         width: 19px;
         height: 11px;
     }
-}
-
-/* side ToC */
-
-.toc.side::-webkit-scrollbar-thumb {
-    border: none;
-    background: var(--secondary);
-}
-
-.toc.side::-webkit-scrollbar {
-    width: 8px;
-}
-
-/* code */
-
-.highlight pre code::-webkit-scrollbar {
-    height: 6px;
 }

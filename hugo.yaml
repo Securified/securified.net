@@ -32,7 +32,7 @@ params:
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowFullTextinRSS: true
   disableSpecial1stPost: false

@@ -86,14 +86,14 @@ Analogous
 
 .dark {
     --theme: #0a120c;  /*background */
-    --entry:#1A3020;  /*blog post background */
+    --entry:#142418;  /*blog post background */
     /* --primary: #7CB88C;  */
     /* most text except for main body */
 
-    /* --secondary: #213D28;  */
+    /* --secondary: #142418;  */
     /*blog sub header text, reading time, date, scroll to top arrow*/
 
-    /* --tertiary: #66AC78; */
+    --tertiary: #142418;
     /* scroll bar, markdown dividers, scoll to top circle, */
 
     /* --content: #7CB88C; */
@@ -108,3 +108,28 @@ Analogous
 .entry-link {
 
 }
+
+
+.post-tags a,
+.share-buttons,
+.paginav {
+    background-color: #142418;
+}
+
+.post-tags a {
+    background-color: #142418;
+}
+
+.post-tags a:hover,
+.paginav a:hover {
+    background-color: #0a120c;
+}
+
+.post-content table {
+    /* background-color: #3b6d48; */
+}
+
+.post-content code {
+    background-color: #142418;
+}
+

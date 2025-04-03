@@ -2,125 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://securified.net/blog/messengers/</loc>
+    <loc>http://localhost:1313/blog/messengers/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/posts/messengers/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/blog/</loc>
+    <loc>http://localhost:1313/tags/imessage/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/imessage/</loc>
+    <loc>http://localhost:1313/tags/messengers/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/messengers/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/posts/</loc>
+    <loc>http://localhost:1313/tags/signal/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/signal/</loc>
+    <loc>http://localhost:1313/tags/texting/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/</loc>
-    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://securified.net/tags/texting/</loc>
-    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://securified.net/blog/bydefault/</loc>
+    <loc>http://localhost:1313/blog/bydefault/</loc>
     <lastmod>2022-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/posts/bydefault/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://securified.net/tags/bank/</loc>
+    <loc>http://localhost:1313/tags/bank/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/blog/finance/</loc>
+    <loc>http://localhost:1313/blog/finance/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/posts/finance/</loc>
+    <loc>http://localhost:1313/tags/finance/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/finance/</loc>
+    <loc>http://localhost:1313/tags/money/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/money/</loc>
+    <loc>http://localhost:1313/tags/privacy.com/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/privacy.com/</loc>
+    <loc>http://localhost:1313/tags/purchase/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/purchase/</loc>
-    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://securified.net/tags/alexa/</loc>
+    <loc>http://localhost:1313/tags/alexa/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/brave/</loc>
+    <loc>http://localhost:1313/tags/brave/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/chrome/</loc>
+    <loc>http://localhost:1313/tags/chrome/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/duckduckgo/</loc>
+    <loc>http://localhost:1313/tags/duckduckgo/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/edge/</loc>
+    <loc>http://localhost:1313/tags/edge/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/google-search/</loc>
+    <loc>http://localhost:1313/tags/google-search/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/iot/</loc>
+    <loc>http://localhost:1313/tags/iot/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/blog/iot/</loc>
+    <loc>http://localhost:1313/blog/iot/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/posts/iot/</loc>
+    <loc>http://localhost:1313/tags/safari/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/safari/</loc>
+    <loc>http://localhost:1313/tags/search-engine/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/search-engine/</loc>
+    <loc>http://localhost:1313/tags/siri/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/siri/</loc>
+    <loc>http://localhost:1313/tags/smart-assistant/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/smart-assistant/</loc>
+    <loc>http://localhost:1313/tags/smart-device/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/smart-device/</loc>
+    <loc>http://localhost:1313/tags/smart-tv/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/smart-tv/</loc>
+    <loc>http://localhost:1313/tags/web-browser/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/tags/web-browser/</loc>
+    <loc>http://localhost:1313/blog/browsers/</loc>
     <lastmod>2021-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://securified.net/blog/browsers/</loc>
-    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://securified.net/posts/browsers/</loc>
-    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://securified.net/about/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://securified.net/categories/</loc>
+    <loc>http://localhost:1313/services/</loc>
   </url><url>
-    <loc>https://securified.net/contact/</loc>
-  </url><url>
-    <loc>https://securified.net/services/</loc>
-  </url><url>
-    <loc>https://securified.net/tools/</loc>
+    <loc>http://localhost:1313/tools/</loc>
   </url>
 </urlset>

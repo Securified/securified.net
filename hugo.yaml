@@ -141,7 +141,7 @@ menu:
     - identifier: Services
       name: Services
       url: /services/
-      weight: 40
+      weight: 10
     - identifier: contact
       name: Contact
       url: /contact/

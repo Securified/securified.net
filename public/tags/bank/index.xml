@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bank on SECURIFIED</title>
-    <link>http://localhost:1313/tags/bank/</link>
+    <link>http://localhost:46283/tags/bank/</link>
     <description>Recent content in Bank on SECURIFIED</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/bank/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:46283/tags/bank/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Defending your Finances in the Digital Realm</title>
-      <link>http://localhost:1313/blog/finance/</link>
+      <link>http://localhost:46283/blog/finance/</link>
       <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/finance/</guid>
+      <guid>http://localhost:46283/blog/finance/</guid>
       <description>A brief guide on digital payments.</description>
       <content:encoded><![CDATA[<h3 id="credit-card-theft">Credit Card Theft</h3>
 <p>Stolen credit/debit card numbers are sold for mere dollars on the black market. This is because they are so ubiquitous as they are lost in data breaches all the time.</p>

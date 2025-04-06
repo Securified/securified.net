@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Imessage on SECURIFIED</title>
-    <link>http://localhost:1313/tags/imessage/</link>
+    <link>http://localhost:46283/tags/imessage/</link>
     <description>Recent content in Imessage on SECURIFIED</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/imessage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:46283/tags/imessage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Smörgåsbord of Messengers</title>
-      <link>http://localhost:1313/blog/messengers/</link>
+      <link>http://localhost:46283/blog/messengers/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/messengers/</guid>
+      <guid>http://localhost:46283/blog/messengers/</guid>
       <description>Privacy and security focused messenger showdown.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>TL;DR: Signal is the best messenger/calling app. Every other messenger has design flaws that affect user security and privacy. Signal is widely regarded as the most secure and private messenger currently available.</p></blockquote>
@@ -35,7 +35,7 @@
 <p>Message/call <a href="https://hls.harvard.edu/dept/its/what-is-metadata/">metadata</a> should be protected and private.</p>
 </li>
 <li>
-<p>It needs to be secure and private by <a href="http://localhost:1313/blog/bydefault/"><em>default</em></a>.</p>
+<p>It needs to be secure and private by <a href="http://localhost:46283/blog/bydefault/"><em>default</em></a>.</p>
 </li>
 <li>
 <p>Governments should not be able to force those running the messenger to break the encryption or <a href="https://en.wikipedia.org/wiki/Backdoor_(computing)">backdoor</a> the software.</p>

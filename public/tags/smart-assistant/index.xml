@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Smart Assistant on SECURIFIED</title>
-    <link>http://localhost:1313/tags/smart-assistant/</link>
+    <link>http://localhost:46283/tags/smart-assistant/</link>
     <description>Recent content in Smart Assistant on SECURIFIED</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/smart-assistant/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:46283/tags/smart-assistant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IoT: The &#39;S&#39; is for Security</title>
-      <link>http://localhost:1313/blog/iot/</link>
+      <link>http://localhost:46283/blog/iot/</link>
       <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/iot/</guid>
+      <guid>http://localhost:46283/blog/iot/</guid>
       <description>An analysis on the lack of IoT Security.</description>
       <content:encoded><![CDATA[<h3 id="iot-insecurity">IoT Insecurity</h3>
 <p>The joke about IoT is that the &lsquo;S&rsquo; is for Security. There is no &lsquo;S&rsquo; in IoT, hence there is no security.</p>

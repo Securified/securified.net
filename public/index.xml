@@ -229,16 +229,26 @@ from their privacy policy:</p>
       <link>http://localhost:46283/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:46283/contact/</guid>
-      <description>&lt;p&gt;Have a question or curious about pricing? Contact Securified using the info below.&lt;/p&gt;
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Have a question or curious about pricing? Contact Securified using the info below.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h3 id=&#34;email&#34;&gt;Email&lt;/h3&gt;
-&lt;p&gt;Send an email to &lt;a href=&#34;mailto:contact@securified.net&#34;&gt;contact@securified.net&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:contact@securified.net&#34;&gt;contact@securified.net&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;signal&#34;&gt;Signal&lt;/h3&gt;
-&lt;p&gt;Send an email to setup communication through &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt;.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Have a question or curious about pricing? Contact Securified using the info below.</p>
+&lt;ul&gt;
+&lt;li&gt;Send an email including your Signal username to setup secure communication through &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>Have a question or curious about pricing? Contact Securified using the info below.</p></blockquote>
 <h3 id="email">Email</h3>
-<p>Send an email to <a href="mailto:contact@securified.net">contact@securified.net</a>.</p>
+<ul>
+<li><a href="mailto:contact@securified.net">contact@securified.net</a></li>
+</ul>
 <h3 id="signal">Signal</h3>
-<p>Send an email to setup communication through <a href="https://signal.org/">Signal</a>.</p>
+<ul>
+<li>Send an email including your Signal username to setup secure communication through <a href="https://signal.org/">Signal</a>.</li>
+</ul>
 ]]></content:encoded>
     </item>
     <item>
@@ -246,7 +256,8 @@ from their privacy policy:</p>
       <link>http://localhost:46283/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:46283/services/</guid>
-      <description>&lt;p&gt;Our plans are flexible. Services can be added or removed as needed and every job is tailored to the customer’s specific needs.&lt;/p&gt;
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Our plans are flexible. Services can be added or removed as needed and every job is tailored to the customer’s specific needs.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h3 id=&#34;cybersecurity-essentials-200-25-hours-work&#34;&gt;Cybersecurity Essentials: $200 (~2.5 hours work)&lt;/h3&gt;
 &lt;p&gt;Cybersecurity basics focuses on three key areas to help keep you protected:&lt;/p&gt;
 &lt;ol&gt;
@@ -256,7 +267,8 @@ from their privacy policy:</p>
 &lt;/ol&gt;
 &lt;h3 id=&#34;cybersecurity-and-cyberprivacy-advanced-90hour&#34;&gt;Cybersecurity and Cyberprivacy Advanced: $90/hour&lt;/h3&gt;
 &lt;p&gt;Elevate your cybersecurity with our customized Cybersecurity and Cyberprivacy Advanced service, focusing on your specific needs for enhanced digital security and privacy. Topics can include:&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Our plans are flexible. Services can be added or removed as needed and every job is tailored to the customer’s specific needs.</p>
+      <content:encoded><![CDATA[<blockquote>
+<p>Our plans are flexible. Services can be added or removed as needed and every job is tailored to the customer’s specific needs.</p></blockquote>
 <h3 id="cybersecurity-essentials-200-25-hours-work">Cybersecurity Essentials: $200 (~2.5 hours work)</h3>
 <p>Cybersecurity basics focuses on three key areas to help keep you protected:</p>
 <ol>
@@ -315,7 +327,8 @@ from their privacy policy:</p>
       <link>http://localhost:46283/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:46283/tools/</guid>
-      <description>&lt;p&gt;Securified recommended tools.&lt;/p&gt;
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Securified recommended tools.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -374,7 +387,8 @@ from their privacy policy:</p>
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</description>
-      <content:encoded><![CDATA[<p>Securified recommended tools.</p>
+      <content:encoded><![CDATA[<blockquote>
+<p>Securified recommended tools.</p></blockquote>
 <table>
   <thead>
       <tr>

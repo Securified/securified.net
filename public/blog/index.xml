@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on SECURIFIED</title>
-    <link>http://localhost:46283/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on SECURIFIED</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:46283/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Smörgåsbord of Messengers</title>
-      <link>http://localhost:46283/blog/messengers/</link>
+      <link>http://localhost:1313/blog/messengers/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:46283/blog/messengers/</guid>
+      <guid>http://localhost:1313/blog/messengers/</guid>
       <description>Privacy and security focused messenger showdown.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>TL;DR: Signal is the best messenger/calling app. Every other messenger has design flaws that affect user security and privacy. Signal is widely regarded as the most secure and private messenger currently available.</p></blockquote>
@@ -35,7 +35,7 @@
 <p>Message/call <a href="https://hls.harvard.edu/dept/its/what-is-metadata/">metadata</a> should be protected and private.</p>
 </li>
 <li>
-<p>It needs to be secure and private by <a href="http://localhost:46283/blog/bydefault/"><em>default</em></a>.</p>
+<p>It needs to be secure and private by <a href="http://localhost:1313/blog/bydefault/"><em>default</em></a>.</p>
 </li>
 <li>
 <p>Governments should not be able to force those running the messenger to break the encryption or <a href="https://en.wikipedia.org/wiki/Backdoor_(computing)">backdoor</a> the software.</p>
@@ -131,9 +131,9 @@ from their privacy policy:</p>
     </item>
     <item>
       <title>By Default </title>
-      <link>http://localhost:46283/blog/bydefault/</link>
+      <link>http://localhost:1313/blog/bydefault/</link>
       <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:46283/blog/bydefault/</guid>
+      <guid>http://localhost:1313/blog/bydefault/</guid>
       <description>The importance of privacy and security by default.</description>
       <content:encoded><![CDATA[<h3 id="private-and-secure-by-default">Private and Secure by Default</h3>
 <p>Privacy and security are not something the general public regularly thinks or cares about. Because of this, the digital items and services we use need to be private and secure by <em>default</em>. However, the average person does not care or might not be aware that the item or service they use needs to be configured differently in order to to make them private and secure.</p>
@@ -143,9 +143,9 @@ from their privacy policy:</p>
     </item>
     <item>
       <title>Defending your Finances in the Digital Realm</title>
-      <link>http://localhost:46283/blog/finance/</link>
+      <link>http://localhost:1313/blog/finance/</link>
       <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:46283/blog/finance/</guid>
+      <guid>http://localhost:1313/blog/finance/</guid>
       <description>A brief guide on digital payments.</description>
       <content:encoded><![CDATA[<h3 id="credit-card-theft">Credit Card Theft</h3>
 <p>Stolen credit/debit card numbers are sold for mere dollars on the black market. This is because they are so ubiquitous as they are lost in data breaches all the time.</p>
@@ -159,9 +159,9 @@ from their privacy policy:</p>
     </item>
     <item>
       <title>IoT: The &#39;S&#39; is for Security</title>
-      <link>http://localhost:46283/blog/iot/</link>
+      <link>http://localhost:1313/blog/iot/</link>
       <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:46283/blog/iot/</guid>
+      <guid>http://localhost:1313/blog/iot/</guid>
       <description>An analysis on the lack of IoT Security.</description>
       <content:encoded><![CDATA[<h3 id="iot-insecurity">IoT Insecurity</h3>
 <p>The joke about IoT is that the &lsquo;S&rsquo; is for Security. There is no &lsquo;S&rsquo; in IoT, hence there is no security.</p>
@@ -183,9 +183,9 @@ from their privacy policy:</p>
     </item>
     <item>
       <title>Web Browsers and Search Engines</title>
-      <link>http://localhost:46283/blog/browsers/</link>
+      <link>http://localhost:1313/blog/browsers/</link>
       <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:46283/blog/browsers/</guid>
+      <guid>http://localhost:1313/blog/browsers/</guid>
       <description>Browser and search engine recommendations.</description>
       <content:encoded><![CDATA[<h3 id="web-browsers">Web Browsers</h3>
 <p>Web browsers are the gateway to the internet and are what every website sees and interacts with. It is important to choose one that has good privacy (does not track everything) and has good security features. But not all web browsers are created equal when it comes to this. Popular browsers like Chrome, Edge, Yandex, Safari and Firefox are not recommended for one reason or another. Chrome and Edge are owned by Google and Microsoft respectively and have massive amounts of user tracking and data collection built-in. Safari has some Apple tracking built in and does not have some needed security features. And its only available for Apple devices. Avoid Firefox or anything based on it. It is very lacking in security features, and collects data about their users, even though they claim they don&rsquo;t. Web browsers should be kept up to date to fix major vulnerabilities.</p>

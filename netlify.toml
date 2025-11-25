@@ -11,16 +11,9 @@
     X-Frame-Options = "DENY"
     X-XSS-Protection = "0"
     X-Content-Type-Options = "nosniff"
-    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload always;"
-   # Content-Security-Policy = "default-src https:"
+    Strict-Transport-Security = "max-age=300; includeSubDomains;"
+    # Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload always;"
+    # https://hstspreload.org/
     Content-Security-Policy = "default-src 'none'; script-src 'none'; style-src 'self'; img-src 'self'; font-src 'self'; connect-src 'none'; frame-src 'none'; object-src 'none'; media-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'none'; upgrade-insecure-requests; block-all-mixed-content"
-
-   
-   # https://cspbuilder.integsec.com/
+    # https://cspbuilder.integsec.com/
  
-
-# onrender config
-# /*  Strict-Transport-Security   max-age=63072000; includeSubDomains
-# /*  X-Frame-Options DENY
-# /*  Content-Security-Policy   default-src 'self';
-# /*  X-XSS-Protection  0

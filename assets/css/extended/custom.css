@@ -1,0 +1,135 @@
+/* Custom CSS */
+
+/* https://coolors.co/3b6d48
+
+complementary
+#3B6D48
+#6D3B60
+
+monochromatic 1
+#3B6D48
+#4D8E5E
+
+monochromatic 2
+#3B6D48
+#2F573A
+#478356
+
+Analogous
+#3B6D48
+#3B6D61
+#476D3B 
+
+
+3B6D48 shades
+#3B6D48
+#346140
+#2E5538
+#274930
+#213D28
+#1A3020
+#142418
+#0D1810
+
+3B6D48 tints
+#3B6D48
+#478457
+#549B66
+#66AC78
+#7CB88C
+#93C5A0
+#AAD1B4
+#C1DDC8
+
+*/
+
+
+
+/* This is scroll bar from wondermod */
+/* #progressBar {
+    background-color: #3b6d48;
+} */
+
+/* profile-mode.css */
+.button {
+    background-color: #3B6D48;
+    /* color: #C1DDC8; */
+}
+
+/* profile-mode.css */
+.button-inner {
+    background-color: #3b6d48;
+}
+
+/* main.css */
+.main {
+    /* background-color:#09100b; */
+    background-color: #0a120c;
+    /* color: #C1DDC8; */
+}
+
+.footer {
+    background-color: #0a120c;
+    /* color: #C1DDC8; */
+}
+
+.header {
+    background-color: #0a120c;
+    /* color: #C1DDC8; */
+}
+
+
+.logo a {
+    /* color: #C1DDC8; */
+}
+
+
+.dark {
+    --theme: #0a120c;  /*background */
+    --entry:#142418;  /*blog post background */
+    /* --primary: #7CB88C;  */
+    /* most text except for main body */
+
+    /* --secondary: #142418;  */
+    /*blog sub header text, reading time, date, scroll to top arrow*/
+
+    --tertiary: #142418;
+    /* scroll bar, markdown dividers, scoll to top circle, */
+
+    /* --content: #7CB88C; */
+    /* main body text */
+
+    /* --code-block-bg: rgb(46, 46, 51); */
+    /* --code-bg: rgb(55, 56, 62); */
+    /* --border: rgb(51, 51, 51); */
+}
+
+
+.entry-link {
+
+}
+
+
+.post-tags a,
+.share-buttons,
+.paginav {
+    background-color: #142418;
+}
+
+.post-tags a {
+    background-color: #142418;
+}
+
+.post-tags a:hover,
+.paginav a:hover {
+    background-color: #0a120c;
+}
+
+.post-content table {
+    /* background-color: #3b6d48; */
+}
+
+.post-content code {
+    background-color: #142418;
+}
+

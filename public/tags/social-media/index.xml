@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Social Media on SECURIFIED</title>
+    <link>http://localhost:1313/tags/social-media/</link>
+    <description>Recent content in Social Media on SECURIFIED</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond the Likes: Social Media Oversharing</title>
+      <link>http://localhost:1313/blog/socialmedia/</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/socialmedia/</guid>
+      <description>10 Risks of Sharing Children&amp;rsquo;s Personal Information Online</description>
+      <content:encoded><![CDATA[<h3 id="10-risks-of-sharing-childrens-personal-information-online">10 Risks of Sharing Children&rsquo;s Personal Information Online</h3>
+<p>Sharing photos and personal information of children on social media can seem harmless, but it creates several real‑world risks. Here are 10 of the most common dangers and why they matter.</p>
+<ol>
+<li><strong>Privacy loss</strong> - Once an image or name is posted online it create a permanent digital footprint and can be copied, archived, and resurfaced years later, even if the original post is deleted.</li>
+<li><strong>Data mining &amp; Profiling</strong> - Social‑media companies and third‑party data brokers collect and sell data (age, location, interests, etc) that is used to build detailed profiles that influence the ads and content shown to both children and parents.</li>
+<li><strong>Facial recognition &amp; AI Misuse</strong> -  Public photos are harvested by companies, governments and malicious actors to train AI, creating biometric profiles that enable facial‑recognition systems, surveillance, wrongful identification, or deep‑fake impersonation.</li>
+<li><strong>Targeted exploitation</strong> - Bad actors scan social media for images of minors, looking for vulnerable children or families that appear less security‑conscious.</li>
+<li><strong>Geolocation clues</strong> - Even seemingly innocuous details, like a landmark in the background of a picture, can give a predator enough information to locate the child&rsquo;s physical location.</li>
+<li><strong>Identity theft</strong> - Personal identifiers like a child’s full name, birthdate, school, or hometown can be combined with publicly available records to steal a child&rsquo;s identity.</li>
+<li><strong>Fraud</strong> - Cybercriminals sometimes open accounts or obtain credit in a minor’s name, leaving the family to resolve the mess when the child reaches adulthood.</li>
+<li><strong>Cyberbullying</strong> - Photos can be taken out of context, edited, or shared with malicious captions, leading to bullying or harassment.</li>
+<li><strong>Legal and regulatory exposure</strong> - In some jurisdictions, collecting or publishing personal data about children under a certain age requires parental consent. Sharing without considering these rules could unintentionally violate privacy regulations.</li>
+<li><strong>Emotional impact &amp; future regret</strong> - Posting a child&rsquo;s information online removes their control over their own story, can hurt self‑esteem, and may cause lasting regret once they realize parts of their childhood are permanently online. (Is this one weird?)</li>
+</ol>
+<hr>
+<h3 id="conclusion">Conclusion</h3>
+<p>While sharing moments of childhood can feel rewarding, each piece of personal data posted creates a permanent digital record that can be misused.</p>
+<p>Limiting exposure, by avoiding full names and identifying details, and regularly reviewing what’s been shared, helps protect children from privacy breaches, identity theft, predatory targeting, and mass-survailance.</p>
+<p>If you need tips on configuring privacy settings for a specific platform or have any questions, Securified is here to help. Contact</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,163 @@
+baseURL: https://securified.net/
+languageCode: en-us
+title: SECURIFIED
+theme: ["PaperMod"]
+# copyright: "© SECURIFIED 2025."
+# delete footer in layouts/partials/footer.html
+
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableGitInfo: false
+
+
+permalinks:
+  Latest Articles: "/:filename"
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "SECURIFIED"
+  description: "Cybersecurity and Cyberprivacy consulting."
+  keywords: [Blog, Consulting, Cybersecurity, Privacy, Cyberprivacy, Security, technology]
+  # author: SECURIFIED
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark
+  disableThemeToggle: true
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowFullTextinRSS: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  # footer:
+  #   text: "hi"
+  #   hideCopyright: true
+  
+  assets:
+    disableHLJS: true
+    disableFingerprinting: false
+
+  # homeInfoParams:
+  #   Title: "Welcome to Securified"
+  #   Content: Specializing in personal Cybersecurity and Cyberprivacy consulting.
+  
+  label:
+    # text: "Home"
+    icon: /favicon.ico
+    iconHeight: 35
+    iconWidth: 35
+
+
+  profileMode:
+    enabled: true
+    title: "SECURIFIED"
+    subtitle: Cybersecurity and Cyberprivacy consulting. 
+    imageUrl: shield-checkmark-line-icon-4.png 
+    Content: Cybersecurity and Cyberprivacy consulting.
+    buttons:
+          - name: Services
+            url: "/services"
+          - name: Posts
+            url: "/posts"
+          - name: Contact
+            url: "/contact"
+
+  # socialIcons:
+  #   - name: mastodon
+  #     url: "https://infosec.exchange/@securified"
+  #   - name: github
+  #     url: "https://github.com/Securified/"
+  #   # - name: monero
+  #   #   url: "https://sethforprivacy.com/donate"
+  #   - name: email
+  #     url: "mailto:contact@securified.net"
+  #   # - name: pgpkey
+  #   #   url: "/about/#primary-pgp-key"
+  #   - name: rss
+  #     url: /index.xml
+
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    # hiddenInSingle: true # hide on single page
+
+  # editPost:
+  #   URL: "https://github.com/"
+  #   Text: "Source code" # edit text
+  #   appendFilePath: true # to append file path to Edit link
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "summary"]
+
+#Enabling Search
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+markup:
+    highlight:
+        style: dracula
+        lineNos: false
+        noClasses: false
+        guessSyntax: true
+
+menu:
+  main:
+    # - identifier: about
+    #   name: about
+    #   url: /about/
+    #   weight: 10
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 20
+    - identifier: Recommendations
+      name: Recommendations
+      url: /recommendations/
+      weight: 30
+    - identifier: Services
+      name: Services
+      url: /services/
+      weight: 10
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 50
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags/
+      weight: 60
+    # - identifier: Search
+    #   name: search
+    #   url: /search/
+    #   weight: 90
+
+
+
+# /*  Strict-Transport-Security   max-age=63072000; includeSubDomains
+# /*  X-Frame-Options DENY
+# /*  Content-Security-Policy   default-src 'self';
+# /*  X-XSS-Protection  0

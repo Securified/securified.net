@@ -1,0 +1,25 @@
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.146.0"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "0"
+    X-Content-Type-Options = "nosniff"
+    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload always;"
+
+  #needs fixed 
+  #   Content-Security-Policy = "default-src self"
+
+ 
+
+# onrender config
+# /*  Strict-Transport-Security   max-age=63072000; includeSubDomains
+# /*  X-Frame-Options DENY
+# /*  Content-Security-Policy   default-src 'self';
+# /*  X-XSS-Protection  0
